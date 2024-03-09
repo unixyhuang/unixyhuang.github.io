@@ -23,8 +23,8 @@ Born in a small town in Jiangxi Province, China, in 2001, I was given the name X
 My current research interests include but not limited to:
 - Artificial Intelligence of Things (AIoT)
 - Ubiquitous Computing
-- Machine Learning Algorithms
-- Security and Privacy Issues
+- Machine Learning
+- Security and Privacy
 
 If you have some interesting thoughts about life and research, please feel free to contact me:
 - Email: xyhuang [AT] ieee.org
