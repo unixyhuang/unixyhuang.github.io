@@ -28,5 +28,5 @@ My current research interests include but not limited to:
 
 If you have some interesting thoughts about life and research, please feel free to contact me via email or onsite:
 - Email: xyhuang [AT] ieee.org
-- Address: QT404, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+- Address: QT404, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR, China
 
