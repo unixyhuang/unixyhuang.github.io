@@ -26,5 +26,5 @@ My current research interests include but not limited to:
 - Machine Learning Algorithms
 - Security and Privacy Issues
 
-If you have some interesting thoughts about life and research, please feel free to contact me via email~
+If you have some interesting thoughts about life and research, please feel free to contact me via email.
 
