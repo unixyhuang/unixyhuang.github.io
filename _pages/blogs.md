@@ -9,10 +9,10 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-## Thoughts about Life
+### Thoughts about Life
 
 Coming soon......
 
-## Literary Works
+### Literary Works
 
 Coming soon......
