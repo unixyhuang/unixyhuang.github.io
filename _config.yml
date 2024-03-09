@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jason Ansel
-first_name: Jason
+title: Xinyu Huang
+first_name: Xinyu
 middle_name:
-last_name: Ansel
-email: jasonansel@jasonansel.com
+last_name: Huang
+email: xyhuang@ieee.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Jason Ansel.
+  Personal website of Xinyu Huang.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -68,13 +68,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jansel # your GitHub user name
+github_username: unixyhuang # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: jansel0 # your Twitter handle
+twitter_username:  # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: jansel # your LinkedIn user name
+linkedin_username:  # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: jDNYtP0AAAAJ  # your Google Scholar ID
+scholar_userid: cuDwCOwAAAAJ&hl=en  # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
