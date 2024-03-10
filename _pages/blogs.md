@@ -10,13 +10,13 @@ horizontal: false
 ---
 
 
-### Literary Works
+### Literary Works 文学创作
 
 -   八月七日，杭州下小雪 (Summer Snow in Hangzhou)
     - A short novel written in April 2023, in memory of my childhood and thanks to my caring mom.  
     - [[Download here]](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf) 
 
 
-### Thoughts about Life
+### Thoughts about Life 生活随笔
 
 Coming soon......
