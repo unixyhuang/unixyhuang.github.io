@@ -14,7 +14,7 @@ horizontal: false
 
 -   八月七日，杭州下小雪 (Summer Snow in Hangzhou)
     - A short novel written in April 2023, in memory of my childhood and thanks to my caring mom.  
-    - [Download](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf) 
+    - [[Download here]](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf) 
 
 
 ### Thoughts about Life
