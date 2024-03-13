@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Feb 2024: One journal paper has been accepted by **INS**! Congrats to Haozhen!
+- Feb 2024: One co-author paper has been accepted by **Information Sciences**! Congrats to Haozhen!
 
 - Jan 2024: Started my RA life in PolyU, and started my new life in Hong Kong.
 
@@ -17,5 +17,5 @@ horizontal: false
 
 - Jun 2023: Graduated from UESTC and obtained my BEng degree, haha...
 
-- Apr 2023: One journal paper has been accepted by **EAAI**.
+- Apr 2023: One journal paper has been accepted by **Engineering Applications of Artificial Intelligence**.
 
