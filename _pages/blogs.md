@@ -19,4 +19,4 @@ horizontal: false
 
 ### Thoughts about Life 生活随笔
 
--    [关于我 (What is ME) ：12 Mar 2024](https://unixyhuang.github.io/blogs/关于我.pdf）
+-    [关于我 (What is ME)](https://unixyhuang.github.io/blogs/关于我.pdf)：12 Mar 2024
