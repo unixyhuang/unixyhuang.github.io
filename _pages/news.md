@@ -17,5 +17,7 @@ horizontal: false
 
 - Jun 2023: Graduated from UESTC and obtained my BEng degree, haha...
 
-- Apr 2023: One journal paper has been accepted by **Engineering Applications of Artificial Intelligence**.
+- Apr 2023: One journal paper has been accepted by **Engineering Applications of Artificial Intelligence**!
+
+- Apr 2022: My first paper has been accepted by **IEEE Sensors Journal**!
 
