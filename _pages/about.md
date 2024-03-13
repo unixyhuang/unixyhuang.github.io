@@ -33,5 +33,5 @@ My current research interests include but are not limited to:
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
 - Email: xyhuang [AT] ieee.org
-- Office: QT404, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+- Office: Room QT404, Chow Yei Ching Building, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
 
