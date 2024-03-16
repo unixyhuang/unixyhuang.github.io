@@ -30,8 +30,10 @@ My current research interests include but are not limited to:
 - Machine Learning
 - Security and Privacy
 
+For my entire PhD career, I'd like to integrate the advanced AI techniques with IoT and push the limits of AIoT applications, e.g., Smart Healthcare, Smart City, Smart Home. I personally believe that the frontiers of Cyber-Physical Systems (CPS) will take humanity to another era.
+
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
 - Email: xyhuang [AT] ieee.org
-- Office: Room QT404, Chow Yei Ching Building, H.K. PolyU, Hung Hom, Kowloon, Hong Kong
+- Office: Room QT404, Chow Yei Ching Building, PolyU, Hung Hom, Kowloon, Hong Kong
 
