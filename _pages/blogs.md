@@ -23,4 +23,4 @@ horizontal: false
 
 -    [世界：一个巨大的游戏 (The World is A Big Game)](https://unixyhuang.github.io/blogs/世界：一个巨大的游戏.pdf): 15 Mar 2024
 
--    [我的人生问题：理想与现实（Theory and Practice）](https://unixyhuang.github.io/blogs/我的人生问题：理想与现实.pdf): 20 Mar 2024
+-    [我的人生问题：理想与现实（Theory and Practice in My Life）](https://unixyhuang.github.io/blogs/我的人生问题：理想与现实.pdf): 20 Mar 2024
