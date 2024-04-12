@@ -26,3 +26,5 @@ horizontal: false
 -    [我的人生问题：理想与现实 (Theory and Practice in My Life)](https://unixyhuang.github.io/blogs/我的人生问题：理想与现实.pdf): 20 Mar 2024
 
 -    [朝花夕拾 (Dawn Blossoms Plucked at Dusk)](https://unixyhuang.github.io/blogs/朝花夕拾.pdf): 28 Mar 2024
+
+-    [县城婆罗门？ (Brahmins in The County Town)](https://unixyhuang.github.io/blogs/县城婆罗门？.pdf): 12 Apr 2024
