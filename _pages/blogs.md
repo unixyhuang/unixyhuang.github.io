@@ -27,4 +27,6 @@ horizontal: false
 
 -    [朝花夕拾 (Dawn Blossoms Plucked at Dusk)](https://unixyhuang.github.io/blogs/朝花夕拾.pdf): 28 Mar 2024
 
--    [县城婆罗门? (Brahmins in The County Town)](https://unixyhuang.github.io/blogs/县城婆罗门？.pdf): 12 Apr 2024
+-    [县城婆罗门? (Brahmins in The County Town)](https://unixyhuang.github.io/blogs/县城婆罗门？.pdf): 10 Apr 2024
+
+-    [关于获得 (About Acquisition)](https://unixyhuang.github.io/blogs/关于获得.pdf): 12 Apr 2024
