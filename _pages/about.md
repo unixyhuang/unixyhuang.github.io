@@ -16,18 +16,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👨🏻‍🎓 Biography
-Welcome! My name is Xinyu Huang and I am currently working towards my Ph.D. degree at the [Department of Computing, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), concerning the related techniques of **Artificial Intelligence of Things (AIoT)**, under the supervision of [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Before that, I received my B.Eng. degree at the [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/), collaborating with [Prof. Yuanming Wu](https://faculty.uestc.edu.cn/wuyuanming/zh_CN/index/173473/list/index.htm) for around 2 years and have accomplished several journal papers on the topic of **IoT Security**. Nevertheless, during my undergraduate period, I have come to [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en) as a visiting student and finished my capstone project about **Wireless Sensing and Localization** there.
+Welcome! My name is Xinyu Huang and I am currently working towards my Ph.D. degree at the [Department of Computing, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), concerning the related techniques of **Artificial Intelligence of Things (AIoT)**, under the supervision of [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Before that, I received my B.Eng. degree at the [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/), collaborating with [Prof. Yuanming Wu](https://faculty.uestc.edu.cn/wuyuanming/zh_CN/index/173473/list/index.htm) for around 2 years and have accomplished several journal papers on the topic of **IoT Security**.
 
 For more information, please refer to my up-to-date [Curriculum Vitae](https://unixyhuang.github.io/CV_V2024.pdf).
 
-### 📖 Education
-- University of Electronic Science and Technology of China, B.Eng, Sept. 2019 - Jun. 2023
-- The Hong Kong Polytechnic University, Ph.D., May 2024 - Present
-
-### 💼 Academic Experience
-- The Chinese University of Hong Kong, Shenzhen, Research Assistant, Nov. 2022 - Nov. 2023
+### 📖 Experience
+- University of Electronic Science and Technology of China, B.Eng., Sept. 2019 - Jun. 2023
+- The Chinese University of Hong Kong (Shenzhen), Research Assistant, Nov. 2022 - Nov. 2023
 - The Hong Kong Polytechnic University, Research Assistant, Jan. 2024 - Apr. 2024
-
+- The Hong Kong Polytechnic University, Ph.D., May 2024 - Present
 
 
 ### 📝 Something to Say...
