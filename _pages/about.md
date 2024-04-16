@@ -21,7 +21,7 @@ Welcome! My name is Xinyu Huang and I am currently working towards my Ph.D. degr
 For more information, please refer to my up-to-date [Curriculum Vitae](https://unixyhuang.github.io/CV_V2024.pdf).
 
 ### 📖 Experience
-- University of Electronic Science and Technology of China, B.Eng., Sept. 2019 - Jun. 2023
+- University of Electronic Science and Technology of China, B.E., Sept. 2019 - Jun. 2023
 - The Chinese University of Hong Kong (Shenzhen), Research Assistant, Nov. 2022 - Nov. 2023
 - The Hong Kong Polytechnic University, Research Assistant, Jan. 2024 - Apr. 2024
 - The Hong Kong Polytechnic University, Ph.D., May 2024 - Present
@@ -40,5 +40,5 @@ My current research interests include but are not limited to:
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
 - Email: xyhuang [AT] ieee.org
-- Office: Room QT404, Chow Yei Ching Building, HK PolyU, Hung Hom, Kowloon, Hong Kong
+- Office: QT404, Chow Yei Ching Building, HK PolyU, Hung Hom, Kowloon, Hong Kong
 
