@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- May 2024: Became a PhD student of Department of Computing, HK PolyU.
+
 - Feb 2024: One co-author paper has been accepted by **Information Sciences**. Congrats to Haozhen!
 
 - Jan 2024: Started my RA life in PolyU, and started my new life in Hong Kong.
