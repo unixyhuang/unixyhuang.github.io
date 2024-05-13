@@ -9,7 +9,11 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- May 2024: Became a PhD student of Department of Computing, HK PolyU.
+- 13-16 May 2024: Attend the **CPS-IoT Week 2024**, HKSTP, Hong Kong.
+
+- 12 May 2024: Attend the **AIoT for Industry 4.0 Workshop**, HKUST, Hong Kong.
+
+- 1 May 2024: Become a PhD student of Department of Computing, HK PolyU.
 
 - Feb 2024: One co-author paper has been accepted by **Information Sciences**. Congrats to Haozhen!
 
