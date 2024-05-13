@@ -26,9 +26,8 @@ Born in a small town of Jiangxi Province, China, in 2001, I was given the name X
 ### 🧐 Research 🤓
 My current research interests include but are not limited to:
 - Artificial Intelligence of Things (AIoT)
-- Ubiquitous and Mobile Computing
-- Machine Learning
-- Security and Privacy
+- Human-Centric Computing
+- Cyber-Physical Systems (CPS)
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
