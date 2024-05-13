@@ -20,13 +20,6 @@ Welcome! My name is Xinyu Huang and I am currently working towards my Ph.D. degr
 
 For more information, please refer to my up-to-date [Curriculum Vitae](https://unixyhuang.github.io/CV_V2024.pdf).
 
-### 📖 Experience
-- University of Electronic Science and Technology of China, B.E., Sept. 2019 - Jun. 2023
-- The Chinese University of Hong Kong (Shenzhen), Research Assistant, Nov. 2022 - Nov. 2023
-- The Hong Kong Polytechnic University, Research Assistant, Jan. 2024 - Apr. 2024
-- The Hong Kong Polytechnic University, Ph.D., May 2024 - Present
-
-
 ### 📝 Something to Say...
 Born in a small town of Jiangxi Province, China, in 2001, I was given the name Xinyu (心宇), which in Chinese means **holding the whole universe in one's heart**. True to my name, I have always been eager to explore the wonders of the world. My curiosity has led me to a wide range of interests, from playing instruments like the saxophone and violin to engaging in sports such as basketball, ping-pong, and badminton. I also have a deep fascination with philosophy and politics (but sometimes finding myself lost in countless thoughts...). My diverse interests inspire me to embrace the world as a life artist, continually exploring and creating. This passion for discovery is also the reason why I decided to pursue a PhD degree.
 
