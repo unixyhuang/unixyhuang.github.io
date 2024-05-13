@@ -9,9 +9,9 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- 13-16 May 2024: Attend the **CPS-IoT Week 2024**, HKSTP, Hong Kong.
+- 13-16 May 2024: Attend the [CPS-IoT Week 2024](https://wands.sg/team/workshop/aiot_for_industry_4.0/)**, HKSTP, Hong Kong.
 
-- 12 May 2024: Attend the **AIoT for Industry 4.0 Workshop**, HKUST, Hong Kong.
+- 12 May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://cps-iot-week2024.ie.cuhk.edu.hk/), HKUST, Hong Kong.
 
 - 1 May 2024: Become a PhD student of Department of Computing, HK PolyU.
 
