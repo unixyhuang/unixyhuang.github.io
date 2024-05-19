@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 pubs:
 
+### Topic: IoT Network Security
 
   - author: "Haozhen Wang, **Xinyu Huang**, Yuanming Wu"
     title: "GD3N: Adaptive Clustering-Based Detection of Selective Forwarding Attacks in WSNs under Variable Harsh Environments"
