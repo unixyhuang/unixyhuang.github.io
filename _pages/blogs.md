@@ -33,4 +33,4 @@ horizontal: false
 
 -    [早悟兰因 (Know Everything in Advance)](https://unixyhuang.github.io/blogs/早悟兰因.pdf): 16 May 2024
 
--    [失眠 (insomnia)](https://unixyhuang.github.io/blogs/失眠.pdf): 6 Jun 2024
+-    [失眠 (Insomnia)](https://unixyhuang.github.io/blogs/失眠.pdf): 6 Jun 2024
