@@ -32,3 +32,5 @@ horizontal: false
 -    [关于获得 (About Acquisition)](https://unixyhuang.github.io/blogs/关于获得.pdf): 12 Apr 2024
 
 -    [早悟兰因 (Know Everything in Advance)](https://unixyhuang.github.io/blogs/早悟兰因.pdf): 16 May 2024
+
+-    [失眠 (insomnia)](https://unixyhuang.github.io/blogs/失眠.pdf): 6 Jun 2024
