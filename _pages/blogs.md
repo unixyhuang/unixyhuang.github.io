@@ -34,3 +34,5 @@ horizontal: false
 -    [早悟兰因 (Know Everything in Advance)](https://unixyhuang.github.io/blogs/早悟兰因.pdf): 16 May 2024
 
 -    [失眠 (Insomnia)](https://unixyhuang.github.io/blogs/失眠.pdf): 6 Jun 2024
+
+-    [与人越远，与狗越近 (Further from Huamns, Closer to Dogs)](https://unixyhuang.github.io/与人越远，与狗越近.pdf): 23 Jun 2024
