@@ -35,4 +35,4 @@ horizontal: false
 
 -    [失眠 (Insomnia)](https://unixyhuang.github.io/blogs/失眠.pdf): 6 Jun 2024
 
--    [与人越远，与狗越近 (Further from Humans, Closer to Dogs)](https://unixyhuang.github.io/与人越远，与狗越近.pdf): 23 Jun 2024
+-    [与人越远，与狗越近 (Further from Humans, Closer to Dogs)](https://unixyhuang.github.io/blogs/与人越远，与狗越近.pdf): 23 Jun 2024
