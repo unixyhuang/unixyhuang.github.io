@@ -13,7 +13,10 @@ horizontal: false
 ### Literary Works 文学创作
 
 -   [八月七日，杭州下小雪 (Summer Snow in Hangzhou)](https://mp.weixin.qq.com/s/1imUClycUzLHQi23QZm2Vw)
-    - A short novel written in April 2023, in memory of my childhood and thanks to my caring mom.  
+    - A short novel written in April 2023, in memory of my childhood and thanks to my caring mom.
+ 
+-  [济公不是李修缘 (Jigong is not Li Xiuyuan)](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf)
+    -  A short novel written in July 2024, recording the image of my father.
     
 
 
@@ -36,3 +39,5 @@ horizontal: false
 -    [失眠 (Insomnia)](https://unixyhuang.github.io/blogs/失眠.pdf): 6 Jun 2024
 
 -    [与人越远，与狗越近 (Further from Humans, Closer to Dogs)](https://unixyhuang.github.io/blogs/与人越远，与狗越近.pdf): 23 Jun 2024
+
+-    [自私与道德 (Selfishness and Morality)](https://unixyhuang.github.io/blogs/自私与道德.pdf): 8 Jul 2024
