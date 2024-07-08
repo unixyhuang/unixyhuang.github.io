@@ -12,7 +12,7 @@ horizontal: false
 
 ### Literary Works 文学创作
 
--   [八月七日，杭州下小雪 (Summer Snow in Hangzhou)](https://mp.weixin.qq.com/s/1imUClycUzLHQi23QZm2Vw)
+-   [八月七日，杭州下小雪 (Summer Snow in Hangzhou)](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf)
     - A short novel written in April 2023, in memory of my childhood and thanks to my caring mom.
  
 -  [济公不是李修缘 (Jigong is not Li Xiuyuan)](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf)
