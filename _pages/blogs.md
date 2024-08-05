@@ -41,3 +41,5 @@ horizontal: false
 -    [与人越远，与狗越近 (Further from Humans, Closer to Dogs)](https://unixyhuang.github.io/blogs/与人越远，与狗越近.pdf): 23 Jun 2024
 
 -    [自私与道德 (Selfishness and Morality)](https://unixyhuang.github.io/blogs/自私与道德.pdf): 8 Jul 2024
+
+-    [关于命运 (What is FATE)](https://unixyhuang.github.io/blogs/关于命运.pdf): 5 Aug 2024
