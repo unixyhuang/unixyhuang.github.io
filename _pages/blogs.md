@@ -22,24 +22,57 @@ horizontal: false
 
 ### Some Thoughts... 一些碎碎念
 
--    [关于我 (What is ME)](https://unixyhuang.github.io/blogs/关于我.pdf)：12 Mar 2024
+<div id="thoughts">
+    <div class="thought-item">
+        -    [关于我 (What is ME)](https://unixyhuang.github.io/blogs/关于我.pdf)：12 Mar 2024
+    </div>
+    <div class="thought-item">
+        -    [世界：一个巨大的游戏 (The World is A Big Game)](https://unixyhuang.github.io/blogs/世界：一个巨大的游戏.pdf): 15 Mar 2024
+    </div>
+    <div class="thought-item">
+        -    [我的人生问题：理想与现实 (Theory and Practice in My Life)](https://unixyhuang.github.io/blogs/我的人生问题：理想与现实.pdf): 20 Mar 2024
+    </div>
+    <div class="thought-item">
+        -    [朝花夕拾 (Dawn Blossoms Plucked at Dusk)](https://unixyhuang.github.io/blogs/朝花夕拾.pdf): 28 Mar 2024
+    </div>
+    <div class="thought-item">
+        -    [县城婆罗门 (Brahmins in The County Town)](https://unixyhuang.github.io/blogs/县城婆罗门？.pdf): 10 Apr 2024
+    </div>
+    <div class="thought-item">
+        -    [关于获得 (About Acquisition)](https://unixyhuang.github.io/blogs/关于获得.pdf): 12 Apr 2024
+    </div>
+    <div id="more-thoughts" style="display: none;">
+        <div class="thought-item">
+            -    [早悟兰因 (Know Everything in Advance)](https://unixyhuang.github.io/blogs/早悟兰因.pdf): 16 May 2024
+        </div>
+        <div class="thought-item">
+            -    [失眠 (Insomnia)](https://unixyhuang.github.io/blogs/失眠.pdf): 6 Jun 2024
+        </div>
+        <div class="thought-item">
+            -    [与人越远，与狗越近 (Further from Humans, Closer to Dogs)](https://unixyhuang.github.io/blogs/与人越远，与狗越近.pdf): 23 Jun 2024
+        </div>
+        <div class="thought-item">
+            -    [自私与道德 (Selfishness and Morality)](https://unixyhuang.github.io/blogs/自私与道德.pdf): 8 Jul 2024
+        </div>
+        <div class="thought-item">
+            -    [关于命运 (What is FATE)](https://unixyhuang.github.io/blogs/关于命运.pdf): 5 Aug 2024
+        </div>
+    </div>
+</div>
 
--    [世界：一个巨大的游戏 (The World is A Big Game)](https://unixyhuang.github.io/blogs/世界：一个巨大的游戏.pdf): 15 Mar 2024
+<a id="more-link" href="javascript:void(0);" onclick="toggleThoughts()">More...</a>
 
--    [我的人生问题：理想与现实 (Theory and Practice in My Life)](https://unixyhuang.github.io/blogs/我的人生问题：理想与现实.pdf): 20 Mar 2024
+<script>
+function toggleThoughts() {
+    var moreThoughts = document.getElementById("more-thoughts");
+    var moreLink = document.getElementById("more-link");
+    if (moreThoughts.style.display === "none") {
+        moreThoughts.style.display = "block";
+        moreLink.innerText = "Show Less";
+    } else {
+        moreThoughts.style.display = "none";
+        moreLink.innerText = "More...";
+    }
+}
+</script>
 
--    [朝花夕拾 (Dawn Blossoms Plucked at Dusk)](https://unixyhuang.github.io/blogs/朝花夕拾.pdf): 28 Mar 2024
-
--    [县城婆罗门 (Brahmins in The County Town)](https://unixyhuang.github.io/blogs/县城婆罗门？.pdf): 10 Apr 2024
-
--    [关于获得 (About Acquisition)](https://unixyhuang.github.io/blogs/关于获得.pdf): 12 Apr 2024
-
--    [早悟兰因 (Know Everything in Advance)](https://unixyhuang.github.io/blogs/早悟兰因.pdf): 16 May 2024
-
--    [失眠 (Insomnia)](https://unixyhuang.github.io/blogs/失眠.pdf): 6 Jun 2024
-
--    [与人越远，与狗越近 (Further from Humans, Closer to Dogs)](https://unixyhuang.github.io/blogs/与人越远，与狗越近.pdf): 23 Jun 2024
-
--    [自私与道德 (Selfishness and Morality)](https://unixyhuang.github.io/blogs/自私与道德.pdf): 8 Jul 2024
-
--    [关于命运 (What is FATE)](https://unixyhuang.github.io/blogs/关于命运.pdf): 5 Aug 2024
