@@ -13,15 +13,19 @@ horizontal: false
 
 - 12 May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), HKUST, Hong Kong.
 
-- 1 May 2024: Become a PhD student of Department of Computing, HK PolyU.
+- 1 May 2024: Become a PhD student of Department of Computing, [HK PolyU](https://www.polyu.edu.hk/).
 
 - Feb 2024: One co-author paper has been accepted by [Information Sciences](https://www.sciencedirect.com/journal/information-sciences). Congrats to Haozhen!
 
-- Jan 2024: Started my RA life in PolyU, and started my new life in Hong Kong.
+- Jan 2024: Start my RA life in PolyU, Hong Kong.
 
-- Dec 2023: Received the admission PhD offer from PolyU with full scholarships!
+- Dec 2023: Receive the admission PhD offer from PolyU with full scholarships!
 
-- Jun 2023: Graduated from UESTC and obtained my BEng degree.
+- Nov 2023: Leave Shenzhen and prepare to welcome new life in Hong Kong.
+
+- Sep 2023: Join the [Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en) as a PhD student.
+
+- Jun 2023: Graduate from UESTC and obtained my BEng degree.
 
 - Apr 2023: One journal paper has been accepted by [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
 
