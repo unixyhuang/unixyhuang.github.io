@@ -20,7 +20,7 @@ horizontal: false
     
 
 
-### Thoughts about Life 生活随笔
+### Some Thoughts... 一些碎碎念
 
 -    [关于我 (What is ME)](https://unixyhuang.github.io/blogs/关于我.pdf)：12 Mar 2024
 
