@@ -17,7 +17,7 @@ horizontal: false
 
 - Feb 2024: One co-author paper has been accepted by [Information Sciences](https://www.sciencedirect.com/journal/information-sciences). Congrats to Haozhen!
 
-- Jan 2024: Start my RA life in PolyU, Hong Kong.
+- Jan 2024: Start my new life in Hong Kong.
 
 - Dec 2023: Receive the admission PhD offer from PolyU with full scholarships!
 
@@ -25,9 +25,9 @@ horizontal: false
 
 - Sep 2023: Join the [Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en) as a PhD student.
 
-- Jun 2023: Graduate from UESTC and obtained my BEng degree.
+- Jun 2023: Graduate from UESTC and obtain my BEng degree.
 
-- Apr 2023: One journal paper has been accepted by [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
+- Apr 2023: My second paper has been accepted by [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
 
 - Apr 2022: My first paper has been accepted by [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361).
 
