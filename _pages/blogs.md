@@ -17,7 +17,9 @@ horizontal: false
  
 -  [济公不是李修缘 (Jigong is not Li Xiuyuan)](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf)
     -  A short novel written in July 2024, recording the image of my father.
-    
+
+-  [环 (Circle)](https://unixyhuang.github.io/blogs/环.pdf)
+    -  A short novel written in August 2024, talking about love.
 
 ### Some Thoughts... 一些碎碎念
 
