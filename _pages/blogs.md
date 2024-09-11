@@ -21,6 +21,7 @@ horizontal: false
 -  [环 (Circle)](https://unixyhuang.github.io/blogs/环.pdf)
     -  A short novel written in August 2024, talking about love.
 
+<!--
 ### Some Thoughts... 一些碎碎念
 
 -    [关于我 (What is ME)](https://unixyhuang.github.io/blogs/关于我.pdf)：12 Mar 2024
@@ -44,3 +45,4 @@ horizontal: false
 -    [自私与道德 (Selfishness and Morality)](https://unixyhuang.github.io/blogs/自私与道德.pdf): 8 Jul 2024
 
 -    [关于命运 (What is FATE)](https://unixyhuang.github.io/blogs/关于命运.pdf): 5 Aug 2024
+-->
