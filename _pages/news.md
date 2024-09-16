@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 
-- Sep 2024: Submit a paper to ACM CHI 2025, good luck to me...
+- Sep 2024: Submit a paper to [ACM CHI 2025](https://chi2025.acm.org/), good luck to me......
 
 - 13-16 May 2024: Attend the [CPS-IoT Week 2024](https://cps-iot-week2024.ie.cuhk.edu.hk/), Hong Kong Science Park, Hong Kong.
 
