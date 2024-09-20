@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Service & Teaching
+title: Services
 permalink: /service_and_teaching/
 description: 
 nav: true
@@ -10,10 +10,11 @@ horizontal: false
 ---
 
 
-### 🏫 Service
+### 🏫 Services
   - Journal Reviewer:
     - [IEEE Transactions on Communications (TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom)
-    - [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
+    - [IEEE Sensors Journal (SensJ)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
+    - [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
     - [IEEE Access](https://ieeeaccess.ieee.org/)
   - Conference Reviewer:
     - [Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
@@ -25,4 +26,4 @@ horizontal: false
     - Undergraduate course of [The Hong Kong Polytechnic University](polyu.edu.hk)
   - MAT2040: Linear Algebra (Fall 2023)
     - Teaching Assistant
-    - Undergraduate course of [The Chinese University of Hong Kong, Shenzhe](https://www.cuhk.edu.cn/en)
+    - Undergraduate course of [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en)
