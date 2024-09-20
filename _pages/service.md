@@ -17,7 +17,7 @@ horizontal: false
     - [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
     - [IEEE Access](https://ieeeaccess.ieee.org/)
   - Conference Reviewer:
-    - [Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
+    - [ACM IMWUT/UbiComp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
    
 
 ### 🧑‍🎓 Teaching
