@@ -12,17 +12,17 @@ horizontal: false
 
 ### 🏫 Service
   - Journal Reviewer:
+    - [IEEE Transactions on Communications (TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom)
     - [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
     - [IEEE Access](https://ieeeaccess.ieee.org/)
-    - [IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom)
   - Conference Reviewer:
-    - [UbiComp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
+    - [Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
    
 
 ### 🧑‍🎓 Teaching
-  - COMP3438: System Programming (2024 Fall)
+  - COMP3438: System Programming (Fall 2024)
     - Teaching Assistant
-    - Undergraduate course, The Hong Kong Polytechnic University
-  - MAT2040: Linear Algebra (2023 Fall)
+    - Undergraduate course of [The Hong Kong Polytechnic University](polyu.edu.hk)
+  - MAT2040: Linear Algebra (Fall 2023)
     - Teaching Assistant
-    - Undergraduate course, The Chinese University of Hong Kong, Shenzhen
+    - Undergraduate course of [The Chinese University of Hong Kong, Shenzhe](https://www.cuhk.edu.cn/en)
