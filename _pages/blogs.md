@@ -11,14 +11,11 @@ horizontal: false
 
 
 
--   [八月七日，杭州下小雪 (Summer Snow in Hangzhou)](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf)
-    - A short novel written in April 2023, in memory of my childhood and thanks to my caring mom.
+-  [八月七日，杭州下小雪](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf)
  
--  [济公不是李修缘 (Jigong is not Li Xiuyuan)](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf)
-    -  A short novel written in July 2024, recording the image of my father.
+-  [济公不是李修缘](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf)
 
--  [环 (Circle)](https://unixyhuang.github.io/blogs/环.pdf)
-    -  A short novel written in August 2024, talking about love.
+-  [环](https://unixyhuang.github.io/blogs/环.pdf)
 
 <!--
 ### Some Thoughts... 一些碎碎念
