@@ -26,9 +26,9 @@ Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, 
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-- Artificial Intelligence of Things
+- AI for IoT
 - Edge AI Service
-- Security and Privacy
+- Security & Privacy
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
