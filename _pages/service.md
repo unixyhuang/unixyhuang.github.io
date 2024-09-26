@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 
-### 🏫 Services
+### 🏫 Community Services
   - Journal Reviewer:
     - [IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom)
     - [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
@@ -20,7 +20,7 @@ horizontal: false
     - [ACM UbiComp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
    
 
-### 🧑‍🎓 Teaching
+### 🧑‍🎓 School Services
   - COMP3438: System Programming (Fall 2024)
     - Teaching Assistant
     - Undergraduate course of [The Hong Kong Polytechnic University](polyu.edu.hk)
