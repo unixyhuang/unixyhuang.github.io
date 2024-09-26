@@ -26,9 +26,9 @@ Born in a small town of China in 2001, I was given the name Xinyu (心宇), whic
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-- AI for Computing Systems
-- On-Device AI 
-- Human-Centric Computing
+- Artificial Intelligence of Things
+- Human-Centered Computing
+- Edge AI Service
 - Security and Privacy
 
 ### 📧 Contacts
