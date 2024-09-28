@@ -6,11 +6,11 @@ subtitle:
 
 profile:
   align: right
-  image: pic2.JPG
-  image_circular: false # crops the image to make it circular
+  image: Live.jpg
+  image_circular: true # crops the image to make it circular
   address:
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -26,10 +26,10 @@ Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, 
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-- AI for IoT Systems
+- AI for Computing Systems
 - Mobile AI Service
-- Human-Centric Computing
 - Security & Privacy
+- Human-Centric Computing
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
