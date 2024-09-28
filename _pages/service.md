@@ -12,8 +12,8 @@ horizontal: false
 
 ### 🏫 Community Service
   - Membership:
-    - Student Member of [IEEE](https://www.ieee.org/) (Since 2022)
-    - Student Member of [ACM](https://www.acm.org/) (Since 2024)
+    - Graduated Student Member of [IEEE](https://www.ieee.org/)
+    - Student Member of [ACM](https://www.acm.org/)
     
   - Journal Reviewer:
     - [IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom)
