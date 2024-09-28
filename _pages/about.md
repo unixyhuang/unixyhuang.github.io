@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👨🏻‍🎓 Biography
-My name is Xinyu Huang and I am working towards my PhD degree at [Department of Computing, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on applying advanced AI techniques into mobile computing systems. Before that, I received my BE degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/). For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
+My name is Xinyu Huang and I am working towards my PhD degree at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on applying advanced AI techniques into mobile computing systems. Before that, I received my BE degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/). For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
 
 
 ### 📝 Something to Say...
@@ -24,13 +24,12 @@ Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, 
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-
 - Mobile AI Systems
 - Security & Privacy
 - Human-Centric Computing
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
-- Email: xyhuang [AT] ieee.org
+- Email: xyhuang[AT]ieee[DOT]org
 - Office: QT404, Chow Yei Ching Building, HK PolyU, Hung Hom, Kowloon, Hong Kong
 
