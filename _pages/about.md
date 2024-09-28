@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Live.jpg
+  image: Live2.jpg
   image_circular: false # crops the image to make it circular
   address:
 
@@ -16,8 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👨🏻‍🎓 Biography
-My name is Xinyu Huang and I am currently working towards my PhD degree at the [Department of Computing, Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/) under the supervision of [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Before that, I received my BEng degree at the [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/) in Optoelectronic Information Science and Engineering.
-For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
+My name is Xinyu Huang and I am currently working towards my PhD degree at the [Department of Computing, Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/) under the supervision of [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). The long-term goal of my research is to apply advanced AI techniques into mobile computing systems. Before that, I received my BEng degree at the [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/) in Optoelectronic Information Science and Engineering. For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
 
 📍 Current Location: **Hong Kong, China**
 
@@ -26,8 +25,8 @@ Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, 
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-- AI for Computing Systems
-- Mobile AI Service
+
+- Mobile AI Systems
 - Security & Privacy
 - Human-Centric Computing
 
