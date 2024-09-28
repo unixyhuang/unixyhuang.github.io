@@ -8,7 +8,7 @@ profile:
   align: right
   image: Live1.JPG
   image_circular: false # crops the image to make it circular
-  address:
+  address: 📍 Current Location: **Hong Kong, China**
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -16,9 +16,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👨🏻‍🎓 Biography
-My name is Xinyu Huang and I am currently working towards my PhD degree at the [Department of Computing, Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/) under the supervision of [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on applying advanced AI techniques into mobile computing systems. Before that, I received my BEng degree at the [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/) in Optoelectronic Information Science and Engineering. For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
+My name is Xinyu Huang and I am currently working towards my PhD degree at the [Department of Computing, Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/) under the supervision of [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on applying advanced AI techniques into mobile computing systems. Before that, I received my BEng degree at the [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/). For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
 
-📍 Current Location: **Hong Kong, China**
+
 
 ### 📝 Something to Say...
 Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, which in Chinese means **holding the whole universe in one's heart**. True to my name, I have always been eager to explore the wonders of the world. My curiosity has led me to a wide range of interests, from playing instruments like the saxophone and violin to engaging in sports such as basketball, ping-pong, and badminton. I also have a deep fascination with philosophy and politics. My diverse interests inspire me to embrace the world as a life artist, continually exploring and creating. This passion for discovery is also the reason why I decided to pursue a PhD degree.
