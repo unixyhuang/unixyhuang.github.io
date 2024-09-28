@@ -14,7 +14,7 @@ horizontal: false
 
 - May 2024: Attend the [CPS-IoT Week 2024](https://cps-iot-week2024.ie.cuhk.edu.hk/), Hong Kong Science Park.
 
-- May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), Hong Kong University of Science and Technology.
+- May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), The Hong Kong University of Science and Technology.
 
 - May 2024: Become a PhD student of Department of Computing, PolyU.
 
@@ -22,7 +22,7 @@ horizontal: false
 
 - Jan 2024: Start my new life in Hong Kong.
 
-- Dec 2023: Receive the PhD offer from [The Hong Kong Polytechnic University (HK PolyU)](https://www.polyu.edu.hk/) with PGS.
+- Dec 2023: Receive the PhD offer from [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) with PGS.
 
 - Nov 2023: Leave Shenzhen and prepare to move to Hong Kong.
 
