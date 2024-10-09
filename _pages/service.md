@@ -27,8 +27,6 @@ horizontal: false
 
 ### 🧑‍🎓 School Service
   - COMP3438: System Programming (Fall 2024)
-    - Teaching Assistant
-    - UG course of HK PolyU
+    - Teaching Assistant, HK PolyU
   - MAT2040: Linear Algebra (Fall 2023)
-    - Teaching Assistant
-    - UG course of CUHK-Shenzhen
+    - Teaching Assistant, CUHK-Shenzhen
