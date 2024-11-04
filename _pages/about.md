@@ -24,10 +24,10 @@ Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, 
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-- AIoT (AI for IoT)
-- Mobile AI Systems
+- AI for IoT Applications
+- Mobile Computing Systems
+- Human-AI Interaction
 - Security & Privacy
-- Human-Centric Computing
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
