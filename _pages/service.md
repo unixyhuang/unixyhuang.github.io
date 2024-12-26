@@ -26,6 +26,8 @@ horizontal: false
    
 
 ### 🧑‍🎓 School Service
+  - COMP1011: Programming Fundamentals (Spring 2025)
+    - Teaching Assistant, HK PolyU 
   - COMP3438: System Programming (Fall 2024)
     - Teaching Assistant, HK PolyU
   - MAT2040: Linear Algebra (Fall 2023)
