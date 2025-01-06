@@ -9,13 +9,14 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-
-
 -  [八月七日，杭州下小雪](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf): April 2023
  
 -  [济公不是李修缘](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf): June 2024
 
 -  [环](https://unixyhuang.github.io/blogs/环.pdf): August 2024
+
+-  [蛇](https://unixyhuang.github.io/blogs/蛇.pdf): Dec 2024
+
 
 <!--
 ### Some Thoughts... 一些碎碎念
