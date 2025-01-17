@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-
+- Jan 2025: After struggling with [CHI 2025](https://chi2025.acm.org/) for 2 rounds, my paper was finally rejected.
 
 - May 2024: Attend the [CPS-IoT Week 2024](https://cps-iot-week2024.ie.cuhk.edu.hk/), Hong Kong Science Park.
 
