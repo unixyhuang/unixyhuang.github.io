@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👨🏻‍🎓 Biography
-My name is Xinyu Huang and I am currently working towards my PhD degree at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on applying advanced AI techniques into mobile computing systems. Previously, I received my BE degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/). For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
+My name is Xinyu Huang, also you can call me Shin Yu Fong (in Gan Yu) or Sum Yu Wong (in Cantonese). I am currently working towards my PhD degree at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on applying advanced AI techniques into mobile computing systems. Previously, I received my BE degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/). For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
 
 
 ### 📝 Something to Say...
