@@ -16,18 +16,17 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👨🏻‍🎓 Biography
-My name is **Xinyu Huang** (in Mandarin), also you can call me **Shin Yu Fong** (in Gan Yu) or **Sum Yu Wong** (in Cantonese). I am currently working towards my PhD degree at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on applying advanced AI techniques into mobile computing systems. Previously, I received my BE degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/). For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
+My name is **Xinyu Huang** (in Mandarin), **Shin Yu Fong** (in Gan Yu), or **Sum Yu Wong** (in Cantonese). I am currently working towards my PhD degree at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on applying advanced AI techniques into mobile computing systems. Previously, I received my BE degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/). For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2024.pdf).
 
 
 ### 📝 Something to Say...
-Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, which in Chinese means **holding the whole universe in one's heart**. True to my name, I have always been eager to explore the wonders of the world. My curiosity has led me to a wide range of interests, from playing instruments like the saxophone and violin to engaging in sports such as basketball, ping-pong, and badminton. I also have a deep fascination with philosophy and politics. My diverse interests inspire me to embrace the world as a life artist, continually exploring and creating. This passion for discovery is also the reason why I decided to pursue a PhD degree. ANd my long-term research goal is to build human-centered reliable AI systems, especially focusing on mobile computing and human-AI interaction.
+Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, which in Chinese means **holding the whole universe in one's heart**. True to my name, I have always been eager to explore the wonders of the world. My curiosity has led me to a wide range of interests, from playing instruments like the saxophone and violin to engaging in sports such as basketball, ping-pong, and badminton. I also have a deep fascination with philosophy and politics. My diverse interests inspire me to embrace the world as a life artist, continually exploring and creating. This passion for discovery is also the reason why I decided to pursue a PhD.
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-- AI for IoT Applications
-- Mobile Computing Systems
-- Human-AI Interaction
-- Security & Privacy
+- AI for IoT
+- Trustworthy AI
+- Large Language Models
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
