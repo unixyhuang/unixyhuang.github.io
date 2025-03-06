@@ -10,7 +10,7 @@ pubs:
 ### Topic: IoT Network Security
 
   - author: "Leming Shen, Qiang Yang, **Xinyu Huang**, Zijing Ma, Yuanming Wu"
-    title: 'GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
+    title: "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
     type: "Conference Paper"
     booktitle: "The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys 2025), May 6 - 9, 2025, Irvine, USA"
     url: "https://arxiv.org/abs/2503.00686"
