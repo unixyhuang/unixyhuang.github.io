@@ -28,7 +28,7 @@ My current research interests include but are not limited to:
 - Trustworthy AI
 - Generative AI (LLMs, Diffusion Model, etc.)
 
-Ongoing Project: **Towards Privacy-Preserving LLM-empowered Agents**
+Ongoing Project: **Towards Privacy-Preserving LLM Agents**
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
