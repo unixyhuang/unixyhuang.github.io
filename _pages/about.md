@@ -26,7 +26,9 @@ Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, 
 My current research interests include but are not limited to:
 - AI for IoT
 - Trustworthy AI
-- Generative AI (LLMs, Diffusion, etc.)
+- Generative AI (LLMs, Diffusion Model, etc.)
+
+Ongoing Project: **Towards Privacy-Preserving LLM-empowered Agents**
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
