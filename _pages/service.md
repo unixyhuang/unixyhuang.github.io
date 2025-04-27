@@ -27,5 +27,3 @@ horizontal: false
     - Teaching Assistant, HK PolyU 
   - COMP3438: System Programming (Fall 2024)
     - Teaching Assistant, HK PolyU
-  - MAT2040: Linear Algebra (Fall 2023)
-    - Teaching Assistant, CUHK-Shenzhen
