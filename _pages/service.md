@@ -16,10 +16,7 @@ horizontal: false
     - Student Member of [ACM](https://www.acm.org/)
     
   - Journal Reviewer:
-    - [IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom)
-    - [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
-    - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-    - [IEEE Access](https://ieeeaccess.ieee.org/)
+    - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
   
   - Conference Reviewer:
     - [ACM UbiComp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
