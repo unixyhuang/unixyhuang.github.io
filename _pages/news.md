@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, CA, USA.
+- May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), University of California Irvine, CA, USA.
 
 - Jan 2025: One co-author paper has been accepted by [ACM SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming!
 
