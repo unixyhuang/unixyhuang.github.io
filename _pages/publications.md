@@ -33,34 +33,6 @@ pubs:
 
 ---
 
-### Conference Paper
-
-- [GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development](https://dl.acm.org/doi/10.1145/3715014.3722064)
-
-Leming Shen, Qiang Yang, **Xinyu Huang**, Zijing Ma, Yuanqing Zheng
-
-**ACM SenSys 2025**, May 6 - May 9, 2025, Irvine, USA
-
-
-### Journal Paper
-
-- [GD3N: Adaptive Clustering-Based Detection of Selective Forwarding Attacks in WSNs under Variable Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0020025524002883)
-
-Haozhen Wang, **Xinyu Huang**, Yuanming Wu
-
-**Information Sciences**, Feb 2024
-
-- [LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0952197623006255)
-
-**Xinyu Huang**, Shunan Li, Yuanming Wu
-
-**Engineering Applications of Artificial Intelligence**, May 2023
-
-- [Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/abstract/document/9755128)
-
-**Xinyu Huang**, Yuanming Wu
-
-**IEEE Sensors Journal**, May 2022
 
 
 
