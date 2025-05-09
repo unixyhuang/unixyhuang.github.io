@@ -9,11 +9,11 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), University of California Irvine, CA, USA.
+- May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), University of California, Irvine, USA.
 
 - Jan 2025: One co-author paper has been accepted by [ACM SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming!
 
-- Jan 2025: After struggling with [CHI 2025](https://chi2025.acm.org/) for 2 rounds, my paper was finally rejected 😭.
+- Jan 2025: After struggling with [ACM CHI 2025](https://chi2025.acm.org/) for 2 rounds, my paper was finally rejected 😭.
 
 - May 2024: Attend the [CPS-IoT Week 2024](https://cps-iot-week2024.ie.cuhk.edu.hk/), Hong Kong Science Park, Hong Kong.
 
