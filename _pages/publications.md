@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 pubs:
 
-  - author: "Leming Shen, Qiang Yang, **Xinyu Huang**, Zijing Ma, Yuanming Wu"
+  - author: "Leming Shen, Qiang Yang, **Xinyu Huang**, Zijing Ma, Yuanqing Zheng"
     title: "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
-    booktitle: "ACM SenSys 2025, May 6 - 9, 2025, Irvine, USA"
+    booktitle: "SenSys 2025, May 6 - 9, 2025, Irvine, USA"
     url: "https://dl.acm.org/doi/10.1145/3715014.3722064"
 
   - author: "Haozhen Wang, **Xinyu Huang**, Yuanming Wu"
