@@ -19,7 +19,8 @@ horizontal: false
     - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
   
   - Conference Reviewer:
-    - [ACM UbiComp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
+    - [ACM IMWUT/UbiComp 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
+    - [ACM IMWUT/UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/)
    
 
 ### 🧑‍🎓 School Service
