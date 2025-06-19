@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- Jun 2025: Receive the Best Poster Award from the PolyU COMP - HKUST(GZ) INFH Research Student Conference, 2025
+
 - May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
 
 - Jan 2025: One co-author paper has been accepted by [SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming!
