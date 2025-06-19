@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Jun 2025: Receive **Best Poster Award** from PolyU - HKUST(GZ) Research Conference, Nansha, Guangzhou.
+- Jun 2025: Receive **Best Poster Award** from PolyU COMP - HKUST(GZ) INFH Research Student Conference, Nansha, Guangzhou.
 
 - May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
 
