@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Jun 2025: Awarded as **Best Poster** by PolyU COMP - HKUST(GZ) INFH Conference.
+- Jun 2025: Awarded as **Best Poster** by PolyU - HKUST(GZ) RPg Conference, Guangzhou, China.
 
 - May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
 
