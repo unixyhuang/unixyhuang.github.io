@@ -24,8 +24,8 @@ Born in a small town of China in 2001, I was given the name **Xinyu (心宇)**, 
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-- AI for IoT
-- Trustworthy AI
+- AI for mobile systems (smart homes, smart cities, etc.)
+- Trustworthy AI (security and privacy issues in AI systems)
 - Generative AI (LLMs, Diffusion Model, etc.)
 
 ### 📧 Contacts
