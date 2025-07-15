@@ -19,6 +19,12 @@ social: true  # includes social icons at the bottom of the page
 My name is **Xinyu Huang** (黄心宇) and I am currently working towards my PhD degree at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on building trustworthy AI systems in the area of mobile computing. Previously, I received my BEng degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/). For more information, please refer to my up-to-date [CV](https://unixyhuang.github.io/CV_V2025.pdf).
 
 
+### 🤓 Research Interests
+My current research interests include but are not limited to:
+- AIoT
+- GenAI
+- TrustAI
+
 ### 📰 Recent News
 Check all my academic news [here](https://unixyhuang.github.io/news/)
 
@@ -34,11 +40,6 @@ Check all my academic news [here](https://unixyhuang.github.io/news/)
 
 - Jan 2025: After struggling with [CHI 2025](https://chi2025.acm.org/) for 2 rounds, my paper was finally rejected 😭.
 
-### 🤓 Research Interests
-My current research interests include but are not limited to:
-- AI for mobile systems (smart homes, smart cities, etc.)
-- Trustworthy AI (security and privacy issues in AI systems)
-- Generative AI (LLMs, Diffusion Model, etc.)
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
