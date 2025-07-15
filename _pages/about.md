@@ -21,9 +21,9 @@ My name is **Xinyu Huang** (黄心宇) and I am currently working towards my PhD
 
 ### 🤓 Research Interests
 My current research interests include but are not limited to:
-- AIoT
-- GenAI
-- TrustAI
+- AI for mobile computing
+- Large Language Models
+- Trustworthy AI (security and privacy)
 
 ### 📰 Recent News
 Check all my academic news [here](https://unixyhuang.github.io/news/)
