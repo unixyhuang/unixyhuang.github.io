@@ -8,8 +8,9 @@ nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
+- Jul 2025: HomeLLaMA was posted on arXiv. Click [here](https://arxiv.org/abs/2507.08878) for more details.
 
-- July 2025: After struggling with [IMWUT/UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) for 2 rounds, my paper was rejected again 🤡.
+- Jul 2025: After struggling with [IMWUT/UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) for 2 rounds, my paper was rejected again 🤡.
 
 - Jun 2025: Awarded as **Best Poster** by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
 
@@ -23,7 +24,7 @@ horizontal: false
 
 - May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), Hong Kong University of Science and Technology.
 
-- May 2024: Become a PhD student of Department of Computing, PolyU.
+- May 2024: Become a PhD student of the Department of Computing, PolyU.
 
 - Feb 2024: One co-author paper has been accepted by [Information Sciences](https://www.sciencedirect.com/journal/information-sciences). Congrats to Haozhen!
 
