@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: 
+title: Publications
 description:
 nav: true
 nav_order: 3
@@ -107,7 +107,7 @@ pubs:
 {% assign confs = page.pubs | where: "type", "Conference" | sort: "year" | reverse %}
 {% assign journals = page.pubs | where: "type", "Journal" | sort: "year" | reverse %}
 
-# Conference Papers
+## Conference Papers
 
 {% for pub in confs %}
 <article class="pub-card">
@@ -134,7 +134,7 @@ pubs:
 </article>
 {% endfor %}
 
-# Journal Papers
+## Journal Papers
 
 {% for pub in journals %}
 <article class="pub-card">
