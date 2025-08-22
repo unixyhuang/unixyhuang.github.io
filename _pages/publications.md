@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: 
 description:
 nav: true
 nav_order: 2
@@ -11,10 +11,10 @@ pubs:
     type: "Conference"
     year: "2025"
     title: "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
-    author: "Leming Shen, Qiang Yang, **Xinyu Huang**, Zijing Ma, Yuanqing Zheng"
+    author: "Leming Shen, Qiang Yang, <u><b>Xinyu Huang</b></u>, Zijing Ma, Yuanqing Zheng"
     booktitle: "SenSys 2025, May 6–9, 2025, Irvine, USA"
-    acceptance_rate: ""
-    url: "https://dl.acm.org/doi/10.1145/3715014.3722064"
+    acceptance_rate: "19.6%"
+    url: ""
     link: "https://dl.acm.org/doi/10.1145/3715014.3722064"
     pdf: ""
     slides: ""
@@ -25,10 +25,34 @@ pubs:
     type: "Journal"
     year: "2024"
     title: "GD3N: Adaptive Clustering-Based Detection of Selective Forwarding Attacks in WSNs under Variable Harsh Environments"
-    author: "Haozhen Wang, **Xinyu Huang**, Yuanming Wu"
+    author: "Haozhen Wang, <u><b>Xinyu Huang</b></u>, Yuanming Wu"
     booktitle: "Information Sciences, 2024"
-    url: "https://www.sciencedirect.com/science/article/pii/S0020025524002883"
+    url: ""
     link: "https://www.sciencedirect.com/science/article/pii/S0020025524002883"
+    pdf: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "Journal"
+    type: "Journal"
+    year: "2023"
+    title: "LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments"
+    author: "<u><b>Xinyu Huang</b></u>, Shunan Li, Yuanming Wu"
+    booktitle: "Engineering Applications of Artificial Intelligence, 2023"
+    url: ""
+    link: "https://www.sciencedirect.com/science/article/pii/S0952197623006255"
+    pdf: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "Journal"
+    type: "Journal"
+    year: "2022"
+    title: "Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks"
+    author: "<u><b>Xinyu Huang</b></u>, Yuanming Wu"
+    booktitle: "IEEE Sensors Journal, 2022"
+    url: ""
+    link: "https://ieeexplore.ieee.org/abstract/document/9755128"
     pdf: ""
     bibtex: ""
     abs: ""
