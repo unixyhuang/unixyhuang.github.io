@@ -8,7 +8,6 @@ nav_order: 3
 
 pubs:
 
-
   - tag: "SenSys 2025"
     type: "Conference"
     year: "2025"
