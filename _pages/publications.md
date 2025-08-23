@@ -7,7 +7,21 @@ nav: true
 nav_order: 3
 
 pubs:
-  - tag: "SenSys ’25"
+
+  - tag: "arXiv"
+    type: "Conference"
+    year: "2025"
+    title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
+    author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
+    booktitle: "arXiv Preprint"
+    url: ""
+    link: "https://dl.acm.org/doi/10.1145/3715014.3722064"
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+
+  - tag: "SenSys 2025"
     type: "Conference"
     year: "2025"
     title: "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
@@ -16,12 +30,12 @@ pubs:
     acceptance_rate: "19.6%"
     url: ""
     link: "https://dl.acm.org/doi/10.1145/3715014.3722064"
-    pdf: ""
+    pdf: "https://unixyhuang.github.io/pubs/GPIoT.pdf"
     slides: ""
     bibtex: ""
     abs: ""
 
-  - tag: "Journal"
+  - tag: "INS"
     type: "Journal"
     year: "2024"
     title: "GD3N: Adaptive Clustering-Based Detection of Selective Forwarding Attacks in WSNs under Variable Harsh Environments"
@@ -33,7 +47,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "Journal"
+  - tag: "EAAI"
     type: "Journal"
     year: "2023"
     title: "LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments"
@@ -45,7 +59,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "Journal"
+  - tag: "IEEE SensJ"
     type: "Journal"
     year: "2022"
     title: "Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks"
@@ -107,7 +121,7 @@ pubs:
 {% assign confs = page.pubs | where: "type", "Conference" | sort: "year" | reverse %}
 {% assign journals = page.pubs | where: "type", "Journal" | sort: "year" | reverse %}
 
-## Conference Papers
+## Conference
 
 {% for pub in confs %}
 <article class="pub-card">
@@ -134,7 +148,7 @@ pubs:
 </article>
 {% endfor %}
 
-## Journal Papers
+## Journal
 
 {% for pub in journals %}
 <article class="pub-card">
