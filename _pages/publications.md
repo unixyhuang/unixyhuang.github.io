@@ -17,7 +17,7 @@ pubs:
     booktitle: "SenSys 2025, May 6–9, 2025, Irvine, USA"
     acceptance_rate: "19.6%"
     link: "https://dl.acm.org/doi/10.1145/3715014.3722064"
-    pdf: "https://unixyhuang.github.io/pubs/GPIoT__SenSys_2025_.pdf
+    pdf: "https://unixyhuang.github.io/pubs/GPIoT.pdf
     slides: ""
     bibtex: ""
     abs: ""
