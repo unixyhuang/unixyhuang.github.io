@@ -15,7 +15,7 @@ pubs:
     booktitle: "SenSys 2025, May 6–9, 2025, Irvine, USA"
     acceptance_rate: "19.6%"
     link: "https://dl.acm.org/doi/10.1145/3715014.3722064"
-    pdf: "https://unixyhuang.github.io/pubs/GPIoT.pdf
+    pdf: "https://unixyhuang.github.io/pubs/GPIoT.pdf"
     slides: ""
     bibtex: ""
     abs: ""
@@ -117,10 +117,11 @@ pubs:
 ## Conference
 
 {% for pub in confs %}
+{% assign href = pub.url | default: pub.link %}
 <article class="pub-card">
   <div class="pub-left"><span class="pub-pill">{{ pub.tag }}</span></div>
   <div>
-    <h2 class="pub-title">{% if pub.url %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h2>
+    <h2 class="pub-title">{% if href %}<a href="{{ href }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h2>
     <div class="pub-authors">{{ pub.author }}</div>
     <div class="pub-venue">
       {{ pub.booktitle }}
@@ -144,10 +145,11 @@ pubs:
 ## Journal
 
 {% for pub in journals %}
+{% assign href = pub.url | default: pub.link %}
 <article class="pub-card">
   <div class="pub-left"><span class="pub-pill">{{ pub.tag }}</span></div>
   <div>
-    <h2 class="pub-title">{% if pub.url %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h2>
+    <h2 class="pub-title">{% if href %}<a href="{{ href }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h2>
     <div class="pub-authors">{{ pub.author }}</div>
     <div class="pub-venue">
       {{ pub.booktitle }}
