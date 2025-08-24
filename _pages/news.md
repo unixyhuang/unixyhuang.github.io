@@ -8,7 +8,12 @@ nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
-- Jul 2025: HomeLLaMA was posted on arXiv. Click [here](https://arxiv.org/abs/2507.08878) for more details.
+
+- Aug 2025: HomeLLaMA is accepted as a Poster in ACM MobiCom 2025, Hong Kong SAR, China.
+
+- Aug 2025: LLMalware is accepted as a Poster in ACM CCS 2025, Taipei, Taiwan. Congrats to Zijing 🎉！
+
+- Jul 2025: HomeLLaMA is posted on arXiv. Click [here](https://arxiv.org/abs/2507.08878) for more details.
 
 - Jul 2025: After struggling with [IMWUT/UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) for 2 rounds, my paper was rejected again 🤡.
 
@@ -30,7 +35,7 @@ horizontal: false
 
 - Jan 2024: Start my new life in Hong Kong.
 
-- Dec 2023: Receive the PhD offer from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) with PGS.
+- Dec 2023: Received the PhD offer from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) with PGS.
 
 - Nov 2023: Leave Shenzhen and prepare to move to Hong Kong.
 
