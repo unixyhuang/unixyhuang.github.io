@@ -31,11 +31,12 @@ horizontal: false
 
 - May 2024: Become a PhD student of the Department of Computing, PolyU.
 
+<details markdown="1">
+<summary>More News</summary>
+  
 - Feb 2024: One co-author paper has been accepted by [Information Sciences](https://www.sciencedirect.com/journal/information-sciences). Congrats to Haozhen!
 
 - Jan 2024: Start my new life in Hong Kong.
-
-- Dec 2023: Received the PhD offer from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) with PGS.
 
 - Nov 2023: Leave Shenzhen and prepare to move to Hong Kong.
 
@@ -47,3 +48,4 @@ horizontal: false
 
 - Apr 2022: My first paper has been accepted by [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361).
 
+</details>
