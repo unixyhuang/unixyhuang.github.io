@@ -9,13 +9,13 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Aug 2025: HomeLLaMA is accepted as a Poster in [ACM MobiCom 2025, Hong Kong SAR, China](https://www.sigmobile.org/mobicom/2025/) 🎉.
+- Aug 2025: HomeLLaMA is accepted as a Poster in [MobiCom 2025, Hong Kong SAR, China](https://www.sigmobile.org/mobicom/2025/) 🎉.
 
-- Aug 2025: LLMalware is accepted as a Poster in [ACM CCS 2025, Taipei, Taiwan](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing 🎉！
+- Aug 2025: LLMalware is accepted as a Poster in [CCS 2025, Taipei, Taiwan](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing 🎉！
 
 - Jul 2025: HomeLLaMA is posted on arXiv. Click [here](https://arxiv.org/abs/2507.08878) for more details.
 
-- Jul 2025: After struggling with [ACM IMWUT/UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) for 2 rounds, my paper was rejected again 🤡.
+- Jul 2025: After struggling with [IMWUT/UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) for 2 rounds, my paper was rejected again 🤡.
 
 - Jun 2025: Awarded as **Best Poster** by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
 
