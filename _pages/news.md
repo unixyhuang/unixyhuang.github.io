@@ -33,9 +33,7 @@ horizontal: false
 
 <details markdown="1">
 <summary>Older News</summary>
-
 <br>
-
 - Feb 2024: One co-author paper has been accepted by [Information Sciences](https://www.sciencedirect.com/journal/information-sciences). Congrats to Haozhen!
 
 - Jan 2024: Start my new life in Hong Kong.
