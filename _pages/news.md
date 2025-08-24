@@ -19,7 +19,7 @@ horizontal: false
 
 - Jun 2025: Awarded as **Best Poster** by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
 
-- May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
+- May 2025: Attend the [CPS-IoT Week & SenSys 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
 
 - Jan 2025: One co-author paper has been accepted by [SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming 🎉!
 
@@ -32,8 +32,8 @@ horizontal: false
 - May 2024: Become a PhD student of the Department of Computing, PolyU.
 
 <details markdown="1">
-<summary>More News</summary>
-  
+<summary>Older News</summary>
+
 - Feb 2024: One co-author paper has been accepted by [Information Sciences](https://www.sciencedirect.com/journal/information-sciences). Congrats to Haozhen!
 
 - Jan 2024: Start my new life in Hong Kong.
