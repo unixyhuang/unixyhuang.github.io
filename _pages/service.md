@@ -23,6 +23,8 @@ horizontal: false
    
 
 ### 🧑‍🎓 School Service
+  - COMP4431: Artificial Intelligence (Fall 2025)
+    - Teaching Assistant, HK PolyU
   - COMP1011: Programming Fundamentals (Spring 2025)
     - Teaching Assistant, HK PolyU 
   - COMP3438: System Programming (Fall 2024)
