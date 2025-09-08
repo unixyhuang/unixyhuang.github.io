@@ -10,8 +10,9 @@ horizontal: false
 ---
 
 
-### PolyU PhD Guide
-- We construct a [WEBSITE](https://polyu-survival.readthedocs.io/en/latest/index.html) to facilitate PolyU fresh PhD students.
+### 📚️ PolyU PhD Guide
+- We construct a [WEBSITE](https://polyu-survival.readthedocs.io/en/latest/index.html) to facilitate PolyU fresh PhD students
+- 
 
 ### 🏫 Community Service
   - Membership:
