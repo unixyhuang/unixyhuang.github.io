@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 
 pubs:
-  - tag: "SenSys 2025"
+  - tag: "SenSys'25"
     type: "Conference"
     year: "2025"
     title: "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
@@ -21,12 +21,34 @@ pubs:
     abs: ""
     
   - tag: "arXiv"
-    type: "Conference"
+    type: "Others"
     year: "2025"
     title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "arXiv Preprint"
     link: "https://arxiv.org/abs/2507.08878"
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "Poster"
+    type: "Others"
+    year: "2025"
+    title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
+    author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
+    booktitle: "MobiCom 2025, November 4-8, Hong Kong, China"
+    link: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "Poster"
+    type: "Others"
+    year: "2025"
+    title: "LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
+    author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Yuanqing Zheng"
+    booktitle: "CCS 2025, October 13-17, Taipei, Taiwan"
+    link: ""
     slides: ""
     bibtex: ""
     abs: ""
@@ -113,6 +135,7 @@ pubs:
 
 {% assign confs = page.pubs | where: "type", "Conference" | sort: "year" | reverse %}
 {% assign journals = page.pubs | where: "type", "Journal" | sort: "year" | reverse %}
+{% assign others = page.pubs | where: "type", "Others" | sort: "year" | reverse %}
 
 ## Conference
 
@@ -133,36 +156,4 @@ pubs:
     <div class="pub-btns">
       {% if pub.link %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
       {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
-      {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
-      {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
-    </div>
-    {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
-  </div>
-  <div class="pub-year">{{ pub.year }}</div>
-</article>
-{% endfor %}
-
-## Journal
-
-{% for pub in journals %}
-{% assign href = pub.url | default: pub.link %}
-<article class="pub-card">
-  <div class="pub-left"><span class="pub-pill">{{ pub.tag }}</span></div>
-  <div>
-    <h2 class="pub-title">{% if href %}<a href="{{ href }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h2>
-    <div class="pub-authors">{{ pub.author }}</div>
-    <div class="pub-venue">
-      {{ pub.booktitle }}
-      {% if pub.journal %} {{ pub.journal }}{% endif %}
-    </div>
-    <div class="pub-btns">
-      {% if pub.link %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
-      {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
-      {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
-      {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
-    </div>
-    {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
-  </div>
-  <div class="pub-year">{{ pub.year }}</div>
-</article>
-{% endfor %}
+      {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href=
