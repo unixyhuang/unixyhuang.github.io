@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+### PolyU PhD Guide
+- We construct a website to facilitate PolyU fresh PhD students: [Website](https://polyu-survival.readthedocs.io/en/latest/index.html).
 
 ### 🏫 Community Service
   - Membership:
