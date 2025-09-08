@@ -36,7 +36,7 @@ pubs:
     year: "2025"
     title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
-    booktitle: "MobiCom 2025, November 4-8, Hong Kong, China"
+    booktitle: "MobiCom 2025, November 4–8, Hong Kong, China"
     link: ""
     slides: ""
     bibtex: ""
@@ -47,7 +47,7 @@ pubs:
     year: "2025"
     title: "LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
     author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Yuanqing Zheng"
-    booktitle: "CCS 2025, October 13-17, Taipei, Taiwan"
+    booktitle: "CCS 2025, October 13–17, Taipei, Taiwan"
     link: ""
     slides: ""
     bibtex: ""
@@ -154,6 +154,65 @@ pubs:
       {% if pub.journal %} {{ pub.journal }}{% endif %}
     </div>
     <div class="pub-btns">
-      {% if pub.link %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
+      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
       {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
-      {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href=
+      {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
+      {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
+    </div>
+    {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
+  </div>
+  <div class="pub-year">{{ pub.year }}</div>
+</article>
+{% endfor %}
+
+## Journal
+
+{% for pub in journals %}
+{% assign href = pub.url | default: pub.link %}
+<article class="pub-card">
+  <div class="pub-left"><span class="pub-pill">{{ pub.tag }}</span></div>
+  <div>
+    <h2 class="pub-title">{% if href %}<a href="{{ href }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h2>
+    <div class="pub-authors">{{ pub.author }}</div>
+    <div class="pub-venue">
+      {{ pub.booktitle }}
+      {% if pub.journal %} {{ pub.journal }}{% endif %}
+    </div>
+    <div class="pub-btns">
+      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
+      {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
+      {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
+      {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
+    </div>
+    {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
+  </div>
+  <div class="pub-year">{{ pub.year }}</div>
+</article>
+{% endfor %}
+
+## Others
+
+{% for pub in others %}
+{% assign href = pub.url | default: pub.link %}
+<article class="pub-card">
+  <div class="pub-left"><span class="pub-pill">{{ pub.tag }}</span></div>
+  <div>
+    <h2 class="pub-title">{% if href %}<a href="{{ href }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h2>
+    <div class="pub-authors">{{ pub.author }}</div>
+    <div class="pub-venue">
+      {{ pub.booktitle }}
+      {% if pub.type == "Technical Report" and pub.number %} {{ pub.number }}{% endif %}
+      {% if pub.school %} {{ pub.school }}{% endif %}
+      {% if pub.journal %} {{ pub.journal }}{% endif %}
+    </div>
+    <div class="pub-btns">
+      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
+      {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
+      {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
+      {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
+    </div>
+    {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
+  </div>
+  <div class="pub-year">{{ pub.year }}</div>
+</article>
+{% endfor %}
