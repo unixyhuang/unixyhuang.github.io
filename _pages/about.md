@@ -24,7 +24,7 @@ My name is **Xinyu Huang** (黄心宇) and I am currently working towards my PhD
 My current research interests include, but are not limited to:
 - AI for mobile computing
 - Large Language Models
-- Trustworthy AI (security and privacy)
+- Security & Privacy
 
 
 ### 📧 Contacts
