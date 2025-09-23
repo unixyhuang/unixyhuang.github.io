@@ -15,8 +15,9 @@ horizontal: false
 
 -  [环](https://unixyhuang.github.io/blogs/环.pdf): August 2024
 
--  [蛇](https://unixyhuang.github.io/blogs/蛇.pdf): Dec 2024
+-  [蛇](https://unixyhuang.github.io/blogs/蛇.pdf): December 2024
 
+-  [是问是答](https://unixyhuang.github.io/blogs/是问是答.pdf): August 2025
 
 <!--
 ### Some Thoughts... 一些碎碎念
