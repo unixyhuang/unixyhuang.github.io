@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Follow my official account by searching **惆怅客H** in WeChat:
+- Follow my official account by searching **[惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg)** in WeChat:
 
   -  [八月七日，杭州下小雪](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf): April 2023
  
