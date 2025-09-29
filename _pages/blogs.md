@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+### Follow my official account by searching **惆怅客H** in WeChat:
+
 -  [八月七日，杭州下小雪](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf): April 2023
  
 -  [济公不是李修缘](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf): June 2024
