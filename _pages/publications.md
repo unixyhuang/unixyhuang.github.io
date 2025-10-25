@@ -31,7 +31,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "Poster"
+  - tag: "MobiCom'25 Poster"
     type: "Others"
     year: "2025"
     title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
@@ -42,7 +42,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "Poster"
+  - tag: "CCS'25 Poster"
     type: "Others"
     year: "2025"
     title: "LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
