@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Oct 2025: I received one early rejection from [MobiCom 2026])https://www.sigmobile.org/mobicom/2026/) 🤡.
+- Oct 2025: I received one early rejection from [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/) 🤡.
 
 - Aug 2025: HomeLLaMA is accepted as a Poster in [MobiCom 2025, Hong Kong SAR, China](https://www.sigmobile.org/mobicom/2025/) 🎉.
 
