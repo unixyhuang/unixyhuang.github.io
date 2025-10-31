@@ -21,7 +21,7 @@ pubs:
     abs: ""
 
   - tag: "MobiCom'25 Poster"
-    type: "Others"
+    type: "Conference"
     year: "2025"
     title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
@@ -32,7 +32,7 @@ pubs:
     abs: ""
 
   - tag: "CCS'25 Poster"
-    type: "Others"
+    type: "Conference"
     year: "2025"
     title: "LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
     author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Yuanqing Zheng"
