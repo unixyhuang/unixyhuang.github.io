@@ -25,11 +25,11 @@ horizontal: false
 
 - Jan 2025: One co-author paper has been accepted by [SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming 🎉!
 
-- Jan 2025: After struggling with [CHI 2025](https://chi2025.acm.org/) for 2 rounds, my paper was finally rejected 😭.
+- Jan 2025: After struggling with [CHI 2025](https://chi2025.acm.org/) for 2 rounds, my paper was finally rejected 🤡.
 
 - May 2024: Attend the [CPS-IoT Week 2024](https://cps-iot-week2024.ie.cuhk.edu.hk/), Hong Kong SAR, China.
 
-- May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), Hong Kong University of Science and Technology.
+- May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), HKUST, Hong Kong SAR, China.
 
 - May 2024: Become a PhD student of the Department of Computing, PolyU.
 
