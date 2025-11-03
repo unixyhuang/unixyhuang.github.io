@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- Nov 2025: Attend the [Future Mobility Forum](https://cse.hkust.edu.hk/future_mobility_forum/), HKUST, Hong Kong SAR, China.
+
 - Oct 2025: I received two early rejections from [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/) 🤡.
 
 - Aug 2025: HomeLLaMA is accepted as a Poster in [MobiCom 2025, Hong Kong SAR, China](https://www.sigmobile.org/mobicom/2025/) 🎉.
