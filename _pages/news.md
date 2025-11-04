@@ -13,21 +13,21 @@ horizontal: false
 
 - Nov 2025: Attend the [Future Mobility Forum](https://cse.hkust.edu.hk/future_mobility_forum/), HKUST, Hong Kong SAR, China.
 
-- Oct 2025: I received two early rejections from [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/) 🤡.
+- Oct 2025: Receive two early rejections from [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/) 🤡.
 
 - Aug 2025: HomeLLaMA is accepted as a Poster in [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/) 🎉.
 
 - Aug 2025: LLMalware is accepted as a Poster in [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing 🎉！
 
-- Jul 2025: HomeLLaMA is posted on arXiv. Click [here](https://arxiv.org/abs/2507.08878) for more details.
+- Jul 2025: HomeLLaMA is now posted on [arXiv](https://arxiv.org/abs/2507.08878).
 
 - Jul 2025: After struggling with [IMWUT/UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) for 2 rounds, my paper was rejected again 🤡.
 
 - Jun 2025: Awarded as **Best Poster** by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
 
-- May 2025: Attend the [CPS-IoT Week & SenSys 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
+- May 2025: Attend the [SenSys 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
 
-- Jan 2025: One co-author paper has been accepted by [SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming 🎉!
+- Jan 2025: GPIoT is accepted by [SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming 🎉!
 
 - Jan 2025: After struggling with [CHI 2025](https://chi2025.acm.org/) for 2 rounds, my paper was finally rejected 🤡.
 
