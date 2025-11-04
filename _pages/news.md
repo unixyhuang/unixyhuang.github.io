@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- Nov 2025: Attend the [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html), Hong Kong SAR, China.
+
 - Nov 2025: Attend the [Future Mobility Forum](https://cse.hkust.edu.hk/future_mobility_forum/), HKUST, Hong Kong SAR, China.
 
 - Oct 2025: I received two early rejections from [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/) 🤡.
