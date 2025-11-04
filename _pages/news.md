@@ -15,9 +15,9 @@ horizontal: false
 
 - Oct 2025: I received two early rejections from [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/) 🤡.
 
-- Aug 2025: HomeLLaMA is accepted as a Poster in [MobiCom 2025, Hong Kong SAR, China](https://www.sigmobile.org/mobicom/2025/) 🎉.
+- Aug 2025: HomeLLaMA is accepted as a Poster in [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/) 🎉.
 
-- Aug 2025: LLMalware is accepted as a Poster in [CCS 2025, Taipei, Taiwan](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing 🎉！
+- Aug 2025: LLMalware is accepted as a Poster in [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing 🎉！
 
 - Jul 2025: HomeLLaMA is posted on arXiv. Click [here](https://arxiv.org/abs/2507.08878) for more details.
 
@@ -35,7 +35,7 @@ horizontal: false
 
 - May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), HKUST, Hong Kong SAR, China.
 
-- May 2024: Become a PhD student of the Department of Computing, PolyU.
+- May 2024: Become a PhD student of the Department of Computing, Hong Kong Polytechnic University.
 
 <details markdown="1">
 <summary>Older News</summary>
