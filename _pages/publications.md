@@ -20,7 +20,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "CCS'25 Poster"
+  - tag: "CCS'25"
     type: "Conference"
     year: "2025"
     title: "LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
