@@ -43,7 +43,7 @@ pubs:
     abs: ""
 
   - tag: "arXiv"
-    type: "Others"
+    type: "Journal"
     year: "2025"
     title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
