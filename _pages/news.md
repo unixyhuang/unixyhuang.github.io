@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 - Nov 2025: Attend the [Embedded AI Summit 2025](https://www.embedded-ai.org/2025/index.html), Zhengzhou, China.
-- 
+
 - Nov 2025: Attend the [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html), Hong Kong SAR, China.
 
 - Nov 2025: Attend the [Future Mobility Forum](https://cse.hkust.edu.hk/future_mobility_forum/), HKUST, Hong Kong SAR, China.
