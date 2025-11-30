@@ -37,7 +37,7 @@ pubs:
     title: "Poster: Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "MobiCom 2025, November 4–8, 2025, Hong Kong, China"
-    link: ""
+    link: "https://dl.acm.org/doi/10.1145/3680207.3765677"
     slides: ""
     bibtex: ""
     abs: ""
