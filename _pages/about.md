@@ -25,6 +25,7 @@ My current research interests include, but are not limited to:
 
 - Large Language Models (LLMs)
 - LLM-empowered Agents
+- Embodied Intelligence
 - Security and Privacy
 
 
