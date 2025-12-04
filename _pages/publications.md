@@ -88,50 +88,161 @@ pubs:
 ---
 
 <style>
+/* ===== 亮色模式变量 ===== */
+:root{
+  --pub-bg: #ffffff;
+  --pub-border: #e5e7eb;
+  --pub-shadow: rgba(0,0,0,0.04);
+
+  --pub-title: #111827;
+  --pub-text: #374151;
+  --pub-venue: #6b7280;
+  --pub-year: #9ca3af;
+
+  --pub-pill-bg: #f3f4f6;
+  --pub-pill-border: #d1d5db;
+  --pub-pill-text: #374151;
+
+  --pub-btn-bg: #f9fafb;
+  --pub-btn-hover: #f3f4f6;
+  --pub-btn-border: #d1d5db;
+  --pub-btn-text: #374151;
+
+  --pub-abs-bg: #fafafa;
+  --pub-abs-border: #d1d5db;
+  --pub-abs-text: #374151;
+}
+
+/* ===== 夜间模式自动适配 ===== */
+@media (prefers-color-scheme: dark){
+  :root{
+    --pub-bg: #0b1120;
+    --pub-border: #1e293b;
+    --pub-shadow: rgba(0,0,0,0.6);
+
+    --pub-title: #f8fafc;
+    --pub-text: #cbd5e1;
+    --pub-venue: #94a3b8;
+    --pub-year: #64748b;
+
+    --pub-pill-bg: #111827;
+    --pub-pill-border: #334155;
+    --pub-pill-text: #e5e7eb;
+
+    --pub-btn-bg: #0f172a;
+    --pub-btn-hover: #1e293b;
+    --pub-btn-border: #334155;
+    --pub-btn-text: #e5e7eb;
+
+    --pub-abs-bg: #020617;
+    --pub-abs-border: #1e293b;
+    --pub-abs-text: #c7d2fe;
+  }
+}
+
+/* ===== 实际卡片样式 ===== */
+
 .pub-card{
   display:grid;
-  grid-template-columns: 110px 1fr 70px;
+  grid-template-columns:110px 1fr 70px;
   gap:18px;
   padding:20px;
   margin:18px 0;
-  border:1px solid #e5e7eb;
+  border:1px solid var(--pub-border);
   border-radius:12px;
-  background:#ffffff;
-  box-shadow:0 2px 6px rgba(0,0,0,0.04);
+  background:var(--pub-bg);
+  box-shadow:0 2px 6px var(--pub-shadow);
 }
+
 .pub-left{display:flex;align-items:flex-start}
+
 .pub-pill{
-  background:#f3f4f6;
-  border:1px solid #d1d5db;
-  color:#374151;
+  background:var(--pub-pill-bg);
+  border:1px solid var(--pub-pill-border);
+  color:var(--pub-pill-text);
   border-radius:999px;
   padding:6px 12px;
   font-size:12px;
   font-weight:600;
 }
-.pub-title{margin:0 0 6px;font-size:18px;font-weight:700;color:#111827}
-.pub-authors{margin:4px 0;color:#374151}
-.pub-venue{margin:6px 0 12px;color:#6b7280;font-size:14px;font-style:italic}
-.pub-btns{display:flex;gap:8px;margin:6px 0 0;flex-wrap:wrap}
+
+.pub-title{
+  margin:0 0 6px;
+  font-size:18px;
+  font-weight:700;
+  color:var(--pub-title);
+}
+
+.pub-title a{
+  color:inherit;
+  text-decoration:none;
+}
+.pub-title a:hover{
+  text-decoration:underline;
+}
+
+.pub-authors{
+  margin:4px 0;
+  color:var(--pub-text);
+}
+
+.pub-venue{
+  margin:6px 0 12px;
+  color:var(--pub-venue);
+  font-size:14px;
+  font-style:italic;
+}
+
+.pub-btns{
+  display:flex;
+  gap:8px;
+  margin:6px 0 0;
+  flex-wrap:wrap;
+}
+
 .pub-btn{
-  border:1px solid #d1d5db;
-  background:#f9fafb;
-  color:#374151;
+  border:1px solid var(--pub-btn-border);
+  background:var(--pub-btn-bg);
+  color:var(--pub-btn-text);
   padding:6px 12px;
   border-radius:6px;
   font-size:12px;
   font-weight:600;
   text-decoration:none;
+  transition:background 0.15s ease;
 }
-.pub-btn:hover{background:#f3f4f6}
-.pub-abs{border:1px dashed #d1d5db;border-radius:10px;padding:10px;margin-top:12px;background:#fafafa;color:#374151;font-size:14px}
-.pub-year{grid-column:3;grid-row:1;color:#9ca3af;font-weight:700;font-size:20px;justify-self:end}
+
+.pub-btn:hover{
+  background:var(--pub-btn-hover);
+}
+
+.pub-abs{
+  border:1px dashed var(--pub-abs-border);
+  border-radius:10px;
+  padding:10px;
+  margin-top:12px;
+  background:var(--pub-abs-bg);
+  color:var(--pub-abs-text);
+  font-size:14px;
+}
+
+.pub-year{
+  grid-column:3;
+  grid-row:1;
+  color:var(--pub-year);
+  font-weight:700;
+  font-size:20px;
+  justify-self:end;
+}
+
 @media (max-width:800px){
   .pub-card{grid-template-columns:90px 1fr}
   .pub-year{display:none}
 }
+
 .section-title{margin-top:28px}
 </style>
+
 
 {% assign confs = page.pubs | where: "type", "Conference" | sort: "year" | reverse %}
 {% assign journals = page.pubs | where: "type", "Journal" | sort: "year" | reverse %}
