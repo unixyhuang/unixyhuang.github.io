@@ -90,55 +90,53 @@ pubs:
 <style>
 :root{
   --pub-bg: #ffffff;
-  --pub-border: #e5e7eb;
-  --pub-shadow: rgba(0,0,0,0.04);
+  --pub-border: #d1d5db;
+  --pub-shadow: rgba(0,0,0,0.03);
 
-  --pub-title: #111827;
-  --pub-text: #374151;
-  --pub-venue: #6b7280;
-  --pub-year: #9ca3af;
+  --pub-title: #111111;
+  --pub-text: #333333;
+  --pub-venue: #555555;
+  --pub-year: #777777;
 
-  --pub-pill-bg: #f3f4f6;
+  --pub-pill-bg: #f5f5f5;
   --pub-pill-border: #d1d5db;
-  --pub-pill-text: #374151;
+  --pub-pill-text: #333333;
 
-  --pub-btn-bg: #f9fafb;
-  --pub-btn-hover: #f3f4f6;
+  --pub-btn-bg: #ffffff;
+  --pub-btn-hover: #f0f0f0;
   --pub-btn-border: #d1d5db;
-  --pub-btn-text: #374151;
+  --pub-btn-text: #111111;
 
   --pub-abs-bg: #fafafa;
   --pub-abs-border: #d1d5db;
-  --pub-abs-text: #374151;
+  --pub-abs-text: #333333;
 }
 
 @media (prefers-color-scheme: dark){
   :root{
-    --pub-bg: #0b1120;
+    --pub-bg: #0f172a;
     --pub-border: #1e293b;
-    --pub-shadow: rgba(0,0,0,0.6);
+    --pub-shadow: rgba(0,0,0,0.5);
 
-    --pub-title: #f8fafc;
+    --pub-title: #e5e7eb;
     --pub-text: #cbd5e1;
     --pub-venue: #94a3b8;
     --pub-year: #64748b;
 
-    --pub-pill-bg: #111827;
-    --pub-pill-border: #334155;
+    --pub-pill-bg: #020617;
+    --pub-pill-border: #1e293b;
     --pub-pill-text: #e5e7eb;
 
-    --pub-btn-bg: #0f172a;
+    --pub-btn-bg: #020617;
     --pub-btn-hover: #1e293b;
-    --pub-btn-border: #334155;
+    --pub-btn-border: #1e293b;
     --pub-btn-text: #e5e7eb;
 
     --pub-abs-bg: #020617;
     --pub-abs-border: #1e293b;
-    --pub-abs-text: #c7d2fe;
+    --pub-abs-text: #cbd5e1;
   }
 }
-
-/* ===== 实际卡片样式 ===== */
 
 .pub-card{
   display:grid;
@@ -147,34 +145,39 @@ pubs:
   padding:20px;
   margin:18px 0;
   border:1px solid var(--pub-border);
-  border-radius:12px;
+  border-radius:10px;
   background:var(--pub-bg);
-  box-shadow:0 2px 6px var(--pub-shadow);
+  box-shadow:0 1px 4px var(--pub-shadow);
 }
 
-.pub-left{display:flex;align-items:flex-start}
+.pub-left{
+  display:flex;
+  align-items:flex-start
+}
 
 .pub-pill{
   background:var(--pub-pill-bg);
   border:1px solid var(--pub-pill-border);
   color:var(--pub-pill-text);
   border-radius:999px;
-  padding:6px 12px;
+  padding:5px 11px;
   font-size:12px;
   font-weight:600;
 }
 
 .pub-title{
   margin:0 0 6px;
-  font-size:18px;
+  font-size:17px;
   font-weight:700;
   color:var(--pub-title);
+  line-height:1.35;
 }
 
 .pub-title a{
   color:inherit;
   text-decoration:none;
 }
+
 .pub-title a:hover{
   text-decoration:underline;
 }
@@ -182,6 +185,7 @@ pubs:
 .pub-authors{
   margin:4px 0;
   color:var(--pub-text);
+  font-size:14.5px;
 }
 
 .pub-venue{
@@ -202,12 +206,11 @@ pubs:
   border:1px solid var(--pub-btn-border);
   background:var(--pub-btn-bg);
   color:var(--pub-btn-text);
-  padding:6px 12px;
-  border-radius:6px;
+  padding:5px 12px;
+  border-radius:4px;
   font-size:12px;
   font-weight:600;
   text-decoration:none;
-  transition:background 0.15s ease;
 }
 
 .pub-btn:hover{
@@ -216,12 +219,13 @@ pubs:
 
 .pub-abs{
   border:1px dashed var(--pub-abs-border);
-  border-radius:10px;
+  border-radius:8px;
   padding:10px;
   margin-top:12px;
   background:var(--pub-abs-bg);
   color:var(--pub-abs-text);
   font-size:14px;
+  line-height:1.6;
 }
 
 .pub-year{
@@ -229,7 +233,7 @@ pubs:
   grid-row:1;
   color:var(--pub-year);
   font-weight:700;
-  font-size:20px;
+  font-size:18px;
   justify-self:end;
 }
 
@@ -238,7 +242,9 @@ pubs:
   .pub-year{display:none}
 }
 
-.section-title{margin-top:28px}
+.section-title{
+  margin-top:28px
+}
 </style>
 
 
