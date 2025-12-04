@@ -112,30 +112,28 @@ pubs:
   --pub-abs-text: #333333;
 }
 
-@media (prefers-color-scheme: dark){
-  :root{
-    --pub-bg: #0f172a;
-    --pub-border: #1e293b;
-    --pub-shadow: rgba(0,0,0,0.5);
+html[data-theme="dark"]{
+  --pub-bg: #0f172a;
+  --pub-border: #1e293b;
+  --pub-shadow: rgba(0,0,0,0.5);
 
-    --pub-title: #e5e7eb;
-    --pub-text: #cbd5e1;
-    --pub-venue: #94a3b8;
-    --pub-year: #64748b;
+  --pub-title: #e5e7eb;
+  --pub-text: #cbd5e1;
+  --pub-venue: #94a3b8;
+  --pub-year: #64748b;
 
-    --pub-pill-bg: #020617;
-    --pub-pill-border: #1e293b;
-    --pub-pill-text: #e5e7eb;
+  --pub-pill-bg: #020617;
+  --pub-pill-border: #1e293b;
+  --pub-pill-text: #e5e7eb;
 
-    --pub-btn-bg: #020617;
-    --pub-btn-hover: #1e293b;
-    --pub-btn-border: #1e293b;
-    --pub-btn-text: #e5e7eb;
+  --pub-btn-bg: #020617;
+  --pub-btn-hover: #1e293b;
+  --pub-btn-border: #1e293b;
+  --pub-btn-text: #e5e7eb;
 
-    --pub-abs-bg: #020617;
-    --pub-abs-border: #1e293b;
-    --pub-abs-text: #cbd5e1;
-  }
+  --pub-abs-bg: #020617;
+  --pub-abs-border: #1e293b;
+  --pub-abs-text: #cbd5e1;
 }
 
 .pub-card{
@@ -246,6 +244,7 @@ pubs:
   margin-top:28px
 }
 </style>
+
 
 
 {% assign confs = page.pubs | where: "type", "Conference" | sort: "year" | reverse %}
