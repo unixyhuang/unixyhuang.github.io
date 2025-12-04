@@ -26,7 +26,7 @@ pubs:
     title: "LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
     author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Yuanqing Zheng"
     booktitle: "CCS 2025 (Poster), October 13–17, 2025, Taipei, Taiwan"
-    link: ""
+    link: "https://dl.acm.org/doi/abs/10.1145/3719027.3760709"
     slides: ""
     bibtex: ""
     abs: ""
