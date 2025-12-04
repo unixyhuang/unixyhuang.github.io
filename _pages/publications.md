@@ -88,7 +88,6 @@ pubs:
 ---
 
 <style>
-/* ===== 亮色模式变量 ===== */
 :root{
   --pub-bg: #ffffff;
   --pub-border: #e5e7eb;
@@ -113,7 +112,6 @@ pubs:
   --pub-abs-text: #374151;
 }
 
-/* ===== 夜间模式自动适配 ===== */
 @media (prefers-color-scheme: dark){
   :root{
     --pub-bg: #0b1120;
