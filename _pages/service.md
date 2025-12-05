@@ -16,7 +16,7 @@ horizontal: false
 
 ### 🏫 Community Service
   - Membership:
-    - Graduated Student Member of [IEEE](https://www.ieee.org/)
+    - Graduate Student Member of [IEEE](https://www.ieee.org/)
     - Student Member of [ACM](https://www.acm.org/)
     
   - Journal Reviewer:
