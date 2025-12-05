@@ -110,8 +110,6 @@ pubs:
   --pub-abs-bg: #fafafa;
   --pub-abs-border: #d1d5db;
   --pub-abs-text: #333333;
-
-  --pub-link: #d946ef;
 }
 
 html[data-theme="dark"]{
@@ -136,8 +134,6 @@ html[data-theme="dark"]{
   --pub-abs-bg: #020617;
   --pub-abs-border: #1e293b;
   --pub-abs-text: #cbd5e1;
-
-  --pub-link: #e879f9;
 }
 
 .pub-card{
@@ -176,12 +172,12 @@ html[data-theme="dark"]{
 }
 
 .pub-title a{
-  color:var(--pub-link);
-  text-decoration:none;
+  color: var(--global-theme-color);
+  text-decoration: none;
 }
 
 .pub-title a:hover{
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 .pub-authors{
@@ -191,12 +187,12 @@ html[data-theme="dark"]{
 }
 
 .pub-authors a{
-  color:var(--pub-link);
-  text-decoration:none;
+  color: var(--global-theme-color);
+  text-decoration: none;
 }
 
 .pub-authors a:hover{
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 .pub-venue{
