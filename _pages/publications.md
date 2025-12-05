@@ -89,7 +89,7 @@ pubs:
 
 <style>
 :root{
-  --pub-bg: #ffffff;
+  --pub-bg: #f9fafb;
   --pub-border: #d1d5db;
   --pub-shadow: rgba(0,0,0,0.03);
 
@@ -172,18 +172,28 @@ html[data-theme="dark"]{
 }
 
 .pub-title a{
-  color:inherit;
-  text-decoration:none;
+  color: inherit;
+  text-decoration: none;
 }
 
 .pub-title a:hover{
-  text-decoration:underline;
+  color: var(--link-color);
+  text-decoration: underline;
 }
 
 .pub-authors{
   margin:4px 0;
   color:var(--pub-text);
   font-size:14.5px;
+}
+
+.pub-authors a{
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.pub-authors a:hover{
+  text-decoration: underline;
 }
 
 .pub-venue{
@@ -244,7 +254,6 @@ html[data-theme="dark"]{
   margin-top:28px
 }
 </style>
-
 
 
 {% assign confs = page.pubs | where: "type", "Conference" | sort: "year" | reverse %}
