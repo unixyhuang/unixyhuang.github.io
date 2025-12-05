@@ -6,7 +6,7 @@ title: Xinyu Huang
 first_name: Xinyu
 middle_name:
 last_name: Huang
-email: xyhuang@ieee.org
+email: unixy-xinyu.huang@connect.polyu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Xinyu Huang.
 footer_text: >
@@ -21,7 +21,7 @@ icon: icon.jpg  # the emoji used as the favicon (alternatively, provide image na
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -93,7 +93,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: unixy_hk # your instagram id
+instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
