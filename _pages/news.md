@@ -23,7 +23,7 @@ horizontal: false
 
 - Jun 2025: Awarded as **Best Poster** by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
 
-- May 2025: Attend the [SenSys 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
+- May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
 
 - Jan 2025: GPIoT is accepted by [SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming!
 
