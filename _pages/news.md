@@ -42,8 +42,6 @@ horizontal: false
 
 - Nov 2023: Leave Shenzhen and prepare to move to Hong Kong.
 
-- Sep 2023: Join [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) as a PhD student.
-
 - Jun 2023: Graduate from UESTC and obtain my BEng degree.
 
 - May 2023: My second paper has been accepted by [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
