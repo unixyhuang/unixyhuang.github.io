@@ -16,7 +16,7 @@ horizontal: false
   - We construct a [WEBSITE](https://comp-polyu.gitbook.io/polyu-survival) to help fresh PhDs
  
 - My recommended food list in the Hong Kong-Guangdong Greater Bay Area
-- Continuously updating [Yuchelin](https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true)
+  - Continuously updating [Yuchelin](https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true)
 
 - Follow my WeChat official account **[惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg)**:
 
