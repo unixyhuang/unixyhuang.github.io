@@ -10,9 +10,6 @@ horizontal: false
 ---
 
 
-### 📚️ PolyU PhD Guide
-- We construct a [WEBSITE](https://comp-polyu.gitbook.io/polyu-survival) to facilitate PolyU fresh PhD students
-
 
 ### 🏫 Community Service
   - Membership:
