@@ -9,7 +9,19 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Follow my official account by searching **[惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg)** in WeChat:
+
+
+
+- PolyU PhD Survival Guide
+  - We construct a [WEBSITE](https://comp-polyu.gitbook.io/polyu-survival) to help fresh PhDs.
+ 
+- My recommended food list: Yuchelin 
+  - Continuously updating the list.
+
+
+
+
+- Follow my WeChat official account **[惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg)**:
 
   -  [八月七日，杭州下小雪](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf): April 2023
  
