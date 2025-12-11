@@ -13,17 +13,12 @@ horizontal: false
 
 
 - PolyU PhD Survival Guide
-
   - We construct a [WEBSITE](https://comp-polyu.gitbook.io/polyu-survival) to help fresh PhDs
 
- 
 - My recommended food list in the Hong Kong-Guangdong Greater Bay Area
-  
   - Continuously updating [Yuchelin](https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true)
 
-
 - Follow my WeChat official account **[惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg)**:
-
   -  [八月七日，杭州下小雪](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf): April 2023
  
   -  [济公不是李修缘](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf): June 2024
