@@ -10,13 +10,19 @@ horizontal: false
 ---
 
 
+### 📑 PolyU PhD Survival Guide
 
+- We construct a [WEBSITE](https://comp-polyu.gitbook.io/polyu-survival) to help fresh PhDs
 
-- PolyU PhD Survival Guide
-  - We construct a [WEBSITE](https://comp-polyu.gitbook.io/polyu-survival) to help fresh PhDs
+- It is originally designed for COMP PhD students, but also useful for other students
 
-- My recommended restaurant in the Hong Kong-Guangdong GBA
-  - Continuously updating [YUCHELIN](https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true)
+### 🍜 Recommended Restaurant
+
+- My recommended restaurants in Hong Kong, Shenzhen, Guangzhou, and Macau
+
+- Continuously updating the list [YUCHELIN](https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true)
+
+### ✍️ Literature
 
 - Follow my WeChat official account **[惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg)**:
   -  [八月七日，杭州下小雪](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf): April 2023
