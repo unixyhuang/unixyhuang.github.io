@@ -22,7 +22,7 @@ horizontal: false
 
 - My recommended restaurants in Hong Kong, Shenzhen, Guangzhou, and Macau
 
-### ✍️ Literature
+### ✍️ Literary Work
 
 - Follow my WeChat official account [惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg):
 
