@@ -23,8 +23,7 @@ My name is **Xinyu Huang** (黄心宇) and I am currently working towards my PhD
 ### 🤓 Research Interests
 My current research interests include, but are not limited to:
 
-- Large Language Models (LLMs)
-- LLM-empowered Agents
+- Large Foundation Models
 - Embodied Intelligence
 - Security and Privacy
 
