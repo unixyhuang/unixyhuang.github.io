@@ -712,3 +712,21 @@ progress {
      display: block;
      height: inherit;
  }
+
+
+/* ============================
+ * Global Typography: Computer Modern
+ * ============================ */
+
+html {
+  font-family: "Computer Modern Serif", "CMU Serif", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Computer Modern Serif", "CMU Serif", serif;
+}
+
+code, pre {
+  font-family: "Computer Modern Typewriter", "CMU Typewriter Text", monospace;
+}
+
