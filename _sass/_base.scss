@@ -734,3 +734,25 @@ body {
   line-height: 1.6;
 }
 
+/* ============================
+ * Force Computer Modern for body text
+ * ============================ */
+
+body,
+p,
+li,
+div,
+span,
+em,
+strong {
+  font-family: "Computer Modern Serif", "CMU Serif", serif !important;
+}
+
+.post-content,
+.post,
+.publications,
+.distill {
+  font-family: "Computer Modern Serif", "CMU Serif", serif !important;
+}
+
+
