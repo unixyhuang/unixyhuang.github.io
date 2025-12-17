@@ -20,7 +20,7 @@ horizontal: false
 
 - Continuously updating the list [YUCHELIN](https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true)
 
-- My recommended restaurants in Hong Kong, Shenzhen, Guangzhou, and Macau
+- My restaurant reviews and recommendations in Hong Kong, Shenzhen, Guangzhou, and so on
 
 ### ✍️ Literary Work
 
