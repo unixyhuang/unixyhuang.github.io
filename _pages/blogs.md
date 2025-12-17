@@ -10,26 +10,24 @@ horizontal: false
 ---
 
 
-### 📑 PolyU PhD Survival Guide
+### 📑 PolyU PhD Guide
 
 - We construct a [WEBSITE](https://comp-polyu.gitbook.io/polyu-survival) to help fresh PhDs
 
 - It is originally designed for COMP PhD students, but also useful for other students
 
-### 🍜 Recommended Restaurant
-
-- My recommended restaurants in Hong Kong, Shenzhen, Guangzhou, and Macau
+### 🍜 Recommended Food
 
 - Continuously updating the list [YUCHELIN](https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true)
 
+- My recommended restaurants in Hong Kong, Shenzhen, Guangzhou, and Macau
+
 ### ✍️ Literature
 
-- Follow my WeChat official account **[惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg)**:
-  -  [八月七日，杭州下小雪](https://unixyhuang.github.io/blogs/八月七日，杭州下小雪.pdf): April 2023
-  -  [济公不是李修缘](https://unixyhuang.github.io/blogs/济公不是李修缘.pdf): June 2024
-  -  [环](https://unixyhuang.github.io/blogs/环.pdf): August 2024
-  -  [蛇](https://unixyhuang.github.io/blogs/蛇.pdf): December 2024
-  -  [是问是答](https://unixyhuang.github.io/blogs/是问是答.pdf): August 2025
+- Follow my WeChat official account [惆怅客H](https://mp.weixin.qq.com/s/9KdXOpLc9fE-pZW7HMiPFg):
+
+- It is written in Chinese, sharing my thoughts about life
+
 
 <!--
 ### Some Thoughts... 一些碎碎念
