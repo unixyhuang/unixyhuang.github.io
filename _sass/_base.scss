@@ -723,12 +723,12 @@ html {
   font-family:
     "Computer Modern Serif",
     "CMU Serif",
-    "FangSong",
-    "STFangsong",        /* macOS */
-    "FangSong_GB2312",   /* Windows */
-    "Noto Serif SC",     /* fallback */
+    "STFangsong",        /* macOS 仿宋 */
+    "FangSong_GB2312",   /* Windows 仿宋 */
+    "Noto Serif SC",     /* serif 兜底（不是 Sans） */
     serif;
 }
+
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
