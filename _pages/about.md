@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👨🏻‍🎓 Biography
-My name is **Xinyu Huang** (黄心宇), and I am currently working towards my PhD at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on building trustworthy mobile AI systems. Previously, I received my BEng degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/) in 2023. 
+My name is **Xinyu Huang**, and I am currently working towards my PhD at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on building trustworthy mobile AI systems. Previously, I received my BEng degree from [University of Electronic Science and Technology of China](https://www.en.uestc.edu.cn/) in 2023. 
 
 
 
