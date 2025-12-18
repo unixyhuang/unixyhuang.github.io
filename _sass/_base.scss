@@ -755,14 +755,14 @@ strong {
   font-family: "Computer Modern Serif", "CMU Serif", serif !important;
 }
 
-/* Simple CJK fallback */
 
 body {
   font-family:
     "Computer Modern Serif",
     "CMU Serif",
-    "Noto Serif SC",
+    "FangSong",
+    "STFangsong",   /* macOS */
+    "FangSong_GB2312", /* Windows */
     serif;
 }
-
 
