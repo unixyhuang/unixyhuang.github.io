@@ -715,7 +715,30 @@ progress {
 
 /* ============================ * Global Typography: Computer Modern * ============================ */ 
 
-html { font-family: "Computer Modern Serif", "CMU Serif", serif; } h1, h2, h3, h4, h5, h6 { font-family: "Computer Modern Serif", "CMU Serif", serif; } code, pre { font-family: "Computer Modern Typewriter", "CMU Typewriter Text", monospace; } body { line-height: 1.6; } /* ============================ * Force Computer Modern for body text * ============================ */ body, p, li, div, span, em, strong { font-family: "Computer Modern Serif", "CMU Serif", serif !important; } .post-content, .post, .publications, .distill { font-family: "Computer Modern Serif", "CMU Serif", serif !important; }
+html { font-family: "Computer Modern Serif", "CMU Serif", serif; 
+} 
+
+h1, h2, h3, h4, h5, h6 { 
+  font-family: "Computer Modern Serif", "CMU Serif", serif; 
+} 
+
+code, pre { 
+  font-family: "Computer Modern Typewriter", "CMU Typewriter Text", monospace; 
+} 
+
+body { 
+  line-height: 1.6; 
+} 
+
+/* ============================ * Force Computer Modern for body text * ============================ */ 
+
+body, p, li, div, span, em, strong {
+  font-family: "Computer Modern Serif", "CMU Serif", serif !important; 
+} 
+
+.post-content, .post, .publications, .distill {
+  font-family: "Computer Modern Serif", "CMU Serif", serif !important; 
+}
 
 
 
