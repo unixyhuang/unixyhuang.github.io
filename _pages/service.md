@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Services
-permalink: /service_and_teaching/
+title: Service
+permalink: /service/
 description: 
 nav: true
 nav_order: 3
