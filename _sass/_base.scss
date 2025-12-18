@@ -713,39 +713,9 @@ progress {
      height: inherit;
  }
 
-/* ============================
- * Global Typography
- * English: Computer Modern
- * Chinese: FangSong (fallback)
- * ============================ */
+/* ============================ * Global Typography: Computer Modern * ============================ */ 
 
-html {
-  font-family:
-    "Computer Modern Serif",
-    "CMU Serif",
-    "STFangsong",        /* macOS 仿宋 */
-    "FangSong_GB2312",   /* Windows 仿宋 */
-    "Noto Serif SC",     /* serif 兜底（不是 Sans） */
-    serif;
-}
-
-
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Computer Modern Serif", "CMU Serif", serif;
-}
-
-/* Code */
-code, pre {
-  font-family: "Computer Modern Typewriter",
-               "CMU Typewriter Text",
-               monospace;
-}
-
-/* Body text tuning */
-body {
-  line-height: 1.6;
-}
+html { font-family: "Computer Modern Serif", "CMU Serif", serif; } h1, h2, h3, h4, h5, h6 { font-family: "Computer Modern Serif", "CMU Serif", serif; } code, pre { font-family: "Computer Modern Typewriter", "CMU Typewriter Text", monospace; } body { line-height: 1.6; } /* ============================ * Force Computer Modern for body text * ============================ */ body, p, li, div, span, em, strong { font-family: "Computer Modern Serif", "CMU Serif", serif !important; } .post-content, .post, .publications, .distill { font-family: "Computer Modern Serif", "CMU Serif", serif !important; }
 
 
 
