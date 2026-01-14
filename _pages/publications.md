@@ -5,7 +5,6 @@ title: Publication
 description:
 nav: true
 nav_order: 3
----
 
 pubs:
   - tag: "SenSys'25"
