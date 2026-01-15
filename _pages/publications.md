@@ -44,10 +44,10 @@ pubs:
 
   - tag: "TMC"
     type: "Journal"
-    year: "2025"
+    year: "2026"
     title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
-    booktitle: "IEEE Transactions on Mobile Computing"
+    booktitle: "IEEE Transactions on Mobile Computing, 2026"
     link: "https://arxiv.org/abs/2507.08878"
     slides: ""
     bibtex: ""
