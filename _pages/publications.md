@@ -49,6 +49,7 @@ pubs:
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "IEEE Transactions on Mobile Computing, 2026"
     link: "https://arxiv.org/abs/2507.08878"
+    pdf: "https://unixyhuang.github.io/pubs/homellama.pdf"
     slides: ""
     bibtex: ""
     abs: ""
