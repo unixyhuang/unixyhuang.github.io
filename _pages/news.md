@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Jan 2026: HomeLLaMA is accepted by [IEEE TMC](https://www.computer.org/csdl/journal/tm).
+- Jan 2026: HomeLLaMA is accepted by [IEEE TMC]([https://www.computer.org/csdl/journal/tm](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)).
   
 - Nov 2025: Attend the [Embedded AI Summit 2025](https://www.embedded-ai.org/2025/index.html), Zhengzhou, China.
 
