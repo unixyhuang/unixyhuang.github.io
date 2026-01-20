@@ -23,10 +23,12 @@ horizontal: false
     - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
    
 
-### 🧑‍🎓 School Service
+### 🧑‍🎓 School Service  
+  - CUS2000: Introduction to Research (Spring 2026)
+    - Teaching Assistant, HK PolyU   
   - COMP4431: Artificial Intelligence (Fall 2025)
     - Teaching Assistant, HK PolyU
-  - COMP1011: Programming Fundamentals (Spring 2025 & 2026)
+  - COMP1011: Programming Fundamentals (Spring 2025)
     - Teaching Assistant, HK PolyU 
   - COMP3438: System Programming (Fall 2024)
     - Teaching Assistant, HK PolyU
