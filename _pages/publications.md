@@ -48,7 +48,7 @@ pubs:
     title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "IEEE Transactions on Mobile Computing, 2026"
-    link: "https://arxiv.org/abs/2507.08878"
+    link: "https://ieeexplore.ieee.org/document/11355826"
     pdf: "https://unixyhuang.github.io/pubs/homellama.pdf"
     slides: ""
     bibtex: ""
