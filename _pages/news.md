@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- Jan 2026: Blindfold is accepted by [SenSys 2026](https://sensys.acm.org/2026/). See you in France this May!
+
 - Jan 2026: HomeLLaMA is accepted by [IEEE TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
   
 - Nov 2025: Attend the [Embedded AI Summit 2025](https://www.embedded-ai.org/2025/index.html), Zhengzhou, China.
