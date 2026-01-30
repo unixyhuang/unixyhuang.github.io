@@ -23,7 +23,7 @@ horizontal: false
     - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
 
   - Organizing Committee:
-    - Web Chair, [AutoSys Workshop @ ACM MobiSys'26](https://autosys26.github.io/)
+    - Web Chair, [AutoSys Workshop @ MobiSys 2026](https://autosys26.github.io/)
 
 ### 🧑‍🎓 School Service  
   - CUS2000: Introduction to Research (Spring 2026)
