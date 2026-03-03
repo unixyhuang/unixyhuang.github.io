@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- Mar 2026: Blindfold is now posted on [arXiv](https://arxiv.org/abs/2603.01414).
+  
 - Jan 2026: Blindfold is accepted by [SenSys 2026](https://sensys.acm.org/2026/). See you in France!
 
 - Jan 2026: HomeLLaMA is accepted by [IEEE TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
