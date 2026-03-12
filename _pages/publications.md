@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 
 pubs:
-  - tag: "SenSys'25"
+  - tag: "SenSys '25"
     type: "Conference"
     year: "2025"
     title: "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
@@ -20,7 +20,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "SenSys'26"
+  - tag: "SenSys '26"
     type: "Conference"
     year: "2026"
     title: "Jailbreaking Embodied LLMs via Action Manipulation"
@@ -33,7 +33,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "CCS'25"
+  - tag: "CCS '25"
     type: "Others"
     year: "2025"
     title: "Poster: LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
@@ -44,7 +44,7 @@ pubs:
     bibtex: ""
     abs: ""
     
-  - tag: "MobiCom'25"
+  - tag: "MobiCom '25"
     type: "Others"
     year: "2025"
     title: "Poster: Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
