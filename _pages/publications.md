@@ -25,7 +25,7 @@ pubs:
   - tag: "SenSys '26"
     type: "Conference"
     year: "2026"
-    title: "Jailbreaking Embodied LLMs via Action Manipulation"
+    title: "Jailbreaking Embodied LLMs via Action-Level Manipulation"
     author: "<u><b>Xinyu Huang</b></u>, Qiang Yang, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "SenSys 2026, May 11–14, 2026, Saint-Malo, France"
     acceptance_rate: "19.6%"
@@ -33,7 +33,7 @@ pubs:
     pdf: "https://unixyhuang.github.io/pubs/blindfold.pdf"
     code: ""
     website: ""
-    slides: ""
+    slides: "https://unixyhuang.github.io/pubs/Blindfold_Slides.pdf"
     bibtex: ""
     abs: ""
 
