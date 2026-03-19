@@ -16,6 +16,8 @@ pubs:
     acceptance_rate: "18.8%"
     link: "https://dl.acm.org/doi/10.1145/3715014.3722064"
     pdf: "https://unixyhuang.github.io/pubs/GPIoT.pdf"
+    code: ""
+    website: ""
     slides: ""
     bibtex: ""
     abs: ""
@@ -29,6 +31,8 @@ pubs:
     acceptance_rate: "19.6%"
     link: "https://arxiv.org/pdf/2603.01414"
     pdf: "https://unixyhuang.github.io/pubs/blindfold.pdf"
+    code: ""
+    website: ""
     slides: ""
     bibtex: ""
     abs: ""
@@ -40,6 +44,9 @@ pubs:
     author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Yuanqing Zheng"
     booktitle: "CCS 2025 (Poster), October 13–17, 2025, Taipei, Taiwan"
     link: "https://dl.acm.org/doi/abs/10.1145/3719027.3760709"
+    pdf: ""
+    code: ""
+    website: ""
     slides: ""
     bibtex: ""
     abs: ""
@@ -51,6 +58,9 @@ pubs:
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "MobiCom 2025 (Poster), November 4–8, 2025, Hong Kong, China"
     link: "https://dl.acm.org/doi/10.1145/3680207.3765677"
+    pdf: ""
+    code: ""
+    website: ""
     slides: ""
     bibtex: ""
     abs: ""
@@ -63,6 +73,8 @@ pubs:
     booktitle: "IEEE Transactions on Mobile Computing, 2026"
     link: "https://ieeexplore.ieee.org/document/11355826"
     pdf: "https://unixyhuang.github.io/pubs/homellama.pdf"
+    code: ""
+    website: ""
     slides: ""
     bibtex: ""
     abs: ""
@@ -75,6 +87,9 @@ pubs:
     booktitle: "Information Sciences, 2024"
     link: "https://www.sciencedirect.com/science/article/pii/S0020025524002883"
     pdf: ""
+    code: ""
+    website: ""
+    slides: ""
     bibtex: ""
     abs: ""
 
@@ -86,6 +101,9 @@ pubs:
     booktitle: "Engineering Applications of Artificial Intelligence, 2023"
     link: "https://www.sciencedirect.com/science/article/pii/S0952197623006255"
     pdf: ""
+    code: ""
+    website: ""
+    slides: ""
     bibtex: ""
     abs: ""
 
@@ -97,6 +115,9 @@ pubs:
     booktitle: "IEEE Sensors Journal, 2022"
     link: "https://ieeexplore.ieee.org/abstract/document/9755128"
     pdf: ""
+    code: ""
+    website: ""
+    slides: ""
     bibtex: ""
     abs: ""
 ---
@@ -164,7 +185,7 @@ html[data-theme="dark"]{
 
 .pub-left{
   display:flex;
-  align-items:flex-start
+  align-items:flex-start;
 }
 
 .pub-pill{
@@ -264,10 +285,9 @@ html[data-theme="dark"]{
 }
 
 .section-title{
-  margin-top:28px
+  margin-top:28px;
 }
 </style>
-
 
 {% assign confs = page.pubs | where: "type", "Conference" | sort: "year" | reverse %}
 {% assign journals = page.pubs | where: "type", "Journal" | sort: "year" | reverse %}
@@ -290,10 +310,12 @@ html[data-theme="dark"]{
       {% if pub.journal %} {{ pub.journal }}{% endif %}
     </div>
     <div class="pub-btns">
-      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
       {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
+      {% if pub.code and pub.code != "" %}<a class="pub-btn" href="{{ pub.code }}">Code</a>{% endif %}
+      {% if pub.website and pub.website != "" %}<a class="pub-btn" href="{{ pub.website }}">Website</a>{% endif %}
       {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
       {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
+      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">Link</a>{% endif %}
     </div>
     {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
   </div>
@@ -315,10 +337,12 @@ html[data-theme="dark"]{
       {% if pub.journal %} {{ pub.journal }}{% endif %}
     </div>
     <div class="pub-btns">
-      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
       {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
+      {% if pub.code and pub.code != "" %}<a class="pub-btn" href="{{ pub.code }}">Code</a>{% endif %}
+      {% if pub.website and pub.website != "" %}<a class="pub-btn" href="{{ pub.website }}">Website</a>{% endif %}
       {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
       {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
+      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">Link</a>{% endif %}
     </div>
     {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
   </div>
@@ -342,10 +366,12 @@ html[data-theme="dark"]{
       {% if pub.journal %} {{ pub.journal }}{% endif %}
     </div>
     <div class="pub-btns">
-      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">LINK</a>{% endif %}
       {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
+      {% if pub.code and pub.code != "" %}<a class="pub-btn" href="{{ pub.code }}">Code</a>{% endif %}
+      {% if pub.website and pub.website != "" %}<a class="pub-btn" href="{{ pub.website }}">Website</a>{% endif %}
       {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
       {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
+      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">Link</a>{% endif %}
     </div>
     {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
   </div>
