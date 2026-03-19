@@ -18,7 +18,7 @@ pubs:
     pdf: "https://unixyhuang.github.io/pubs/GPIoT.pdf"
     code: ""
     website: ""
-    slides: ""
+    slides: "https://unixyhuang.github.io/pubs/GPIoT_preseentation.pdf"
     bibtex: ""
     abs: ""
 
