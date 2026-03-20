@@ -12,9 +12,6 @@ horizontal: false
 
 
 ### 🏫 Community Service
-  - Membership:
-    - Graduate Student Member of [IEEE](https://www.ieee.org/)
-    - Student Member of [ACM](https://www.acm.org/)
     
   - Journal Reviewer:
     - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
