@@ -33,7 +33,7 @@ pubs:
     pdf: "https://unixyhuang.github.io/pubs/blindfold.pdf"
     code: ""
     website: ""
-    slides: "https://unixyhuang.github.io/pubs/Blindfold_Slides.pdf"
+    slides: "https://unixyhuang.github.io/pubs/blindfold_slides.pdf"
     bibtex: ""
     abs: ""
 
