@@ -16,6 +16,7 @@ horizontal: false
   - Journal Reviewer:
     - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
     - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+    - [IEEE Access](https://ieeeaccess.ieee.org/)
   
   - Conference Reviewer:
     - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
