@@ -350,7 +350,6 @@ html[data-theme="dark"]{
 </article>
 {% endfor %}
 
-## Others
 
 {% for pub in others %}
 {% assign href = pub.url | default: pub.link %}
