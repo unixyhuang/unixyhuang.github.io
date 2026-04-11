@@ -80,7 +80,7 @@ pubs:
     abs: ""
     
   - tag: "INS"
-    type: "Others"
+    type: "Journal"
     year: "2024"
     title: "GD3N: Adaptive Clustering-Based Detection of Selective Forwarding Attacks in WSNs under Variable Harsh Environments"
     author: "Haozhen Wang, <u><b>Xinyu Huang</b></u>, Yuanming Wu"
@@ -94,7 +94,7 @@ pubs:
     abs: ""
 
   - tag: "EAAI"
-    type: "Others"
+    type: "Journal"
     year: "2023"
     title: "LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments"
     author: "<u><b>Xinyu Huang</b></u>, Shunan Li, Yuanming Wu"
@@ -108,7 +108,7 @@ pubs:
     abs: ""
 
   - tag: "SensJ"
-    type: "Others"
+    type: "Journal"
     year: "2022"
     title: "Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks"
     author: "<u><b>Xinyu Huang</b></u>, Yuanming Wu"
