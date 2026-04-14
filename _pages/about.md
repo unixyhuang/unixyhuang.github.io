@@ -37,13 +37,3 @@ If you are willing to share some interesting thoughts about life and research, p
 - Office: QT404, Chow Yei Ching Building, HK PolyU, Hung Hom, Kowloon, Hong Kong
 
 
-
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://info.flagcounter.com/Kwk">
-    <img
-      src="https://s01.flagcounter.com/count2/Kwk/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/"
-      alt="Visitor Counter"
-      style="max-width: 100%; height: auto;">
-  </a>
-</div>
-
