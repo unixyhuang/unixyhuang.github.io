@@ -11,20 +11,23 @@ horizontal: false
 
 
 
-### 🏫 Community Service
-    
-  - Journal Reviewer:
-    - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
-    - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-    - [IEEE Access](https://ieeeaccess.ieee.org/)
-  
-  - Conference Reviewer:
-    - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
+### Professional Service
+
+  - Technical Program Committee:
+    - [MobiSys 2026 Demos](https://www.sigmobile.org/mobisys/2026/call_for_demos/)
 
   - Organizing Committee:
     - Web Chair, [AutoSys Workshop @ MobiSys 2026](https://autosys26.github.io/)
 
-### 🧑‍🎓 School Service  
+  - Conference Reviewer:
+    - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
+   
+  - Journal Reviewer:
+    - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
+    - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+    - [IEEE Access](https://ieeeaccess.ieee.org/)
+    
+### Teaching  
   - CUS2000: Introduction to Research (Spring 2026)
     - Teaching Assistant, HK PolyU
     - Instructor: [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/) 
