@@ -19,12 +19,10 @@ horizontal: false
   - Technical Program Committee:
     - [MobiSys 2026 Demo](https://www.sigmobile.org/mobisys/2026/call_for_demos/)
 
-  - Conference Reviewer:
+  - Invited Reviewer:
     - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
-   
-  - Journal Reviewer:
     - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
-    - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+    - [Elsevier Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
     - [IEEE Access](https://ieeeaccess.ieee.org/)
     
 ### Teaching  
