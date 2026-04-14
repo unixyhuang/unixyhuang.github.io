@@ -7,18 +7,18 @@ subtitle:
 profile:
   align: right
   image: recent.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   address:
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false
+selected_papers: false
+social: true
 ---
 
 ### 👨🏻‍🎓 Biography
-My name is **Xinyu Huang**, and I am currently working towards my PhD degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on building trustworthy mobile AI systems, and I have published my work in ACM SenSys, ACM MobiCom, IEEE TMC, and other venues. Previously, I received my BEng degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2023. 
+My name is **Xinyu Huang**, and I am currently working towards my PhD degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), advised by [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). My research focuses on building trustworthy mobile AI systems, and I have published my work in ACM SenSys, ACM MobiCom, IEEE TMC, and other venues. Previously, I received my BEng degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2023.
 
-
+---
 
 ### 🤓 Research Interests
 My current research interests include, but are not limited to:
@@ -26,11 +26,24 @@ My current research interests include, but are not limited to:
 - Large Foundation Models
 - Embodied Intelligence
 - Security and Privacy
-- Efficient AI System
+- Efficient AI Systems
 
+---
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
+
 - Email: xyhuang [AT] ieee [DOT] org
 - Office: QT404, Chow Yei Ching Building, HK PolyU, Hung Hom, Kowloon, Hong Kong
+
+---
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://info.flagcounter.com/Kwk">
+    <img
+      src="https://s01.flagcounter.com/count2/Kwk/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/"
+      alt="Visitor Counter"
+      style="max-width: 100%; height: auto;">
+  </a>
+</div>
 
