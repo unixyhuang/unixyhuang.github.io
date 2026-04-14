@@ -29,7 +29,7 @@ pubs:
     author: "<u><b>Xinyu Huang</b></u>, Qiang Yang, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "SenSys 2026, May 11–14, 2026, Saint-Malo, France"
     acceptance_rate: "19.6%"
-    link: "https://arxiv.org/pdf/2603.01414"
+    link: "https://arxiv.org/abs/2603.01414"
     pdf: "https://unixyhuang.github.io/pubs/blindfold.pdf"
     code: ""
     website: ""
