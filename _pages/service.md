@@ -13,11 +13,11 @@ horizontal: false
 
 ### Professional Service
 
-  - Technical Program Committee:
-    - [MobiSys 2026 Demos](https://www.sigmobile.org/mobisys/2026/call_for_demos/)
-
   - Organizing Committee:
     - Web Chair, [AutoSys Workshop @ MobiSys 2026](https://autosys26.github.io/)
+  
+  - Technical Program Committee:
+    - [MobiSys 2026 Demo](https://www.sigmobile.org/mobisys/2026/call_for_demos/)
 
   - Conference Reviewer:
     - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
