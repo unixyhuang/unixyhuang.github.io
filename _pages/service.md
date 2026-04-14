@@ -22,7 +22,7 @@ horizontal: false
   - Invited Reviewer:
     - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
     - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
-    - [Elsevier Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+    - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
     - [IEEE Access](https://ieeeaccess.ieee.org/)
     
 ### Teaching  
