@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: LA.jpg
+  image: Live1.jpg
   image_circular: false
   address:
 
