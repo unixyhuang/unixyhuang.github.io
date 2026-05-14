@@ -353,27 +353,21 @@ html[data-theme="dark"]{
   {% if pub.pdf and pub.pdf != "" %}
     <a class="pub-btn" href="{{ pub.pdf }}">PDF</a>
   {% endif %}
-
   {% if pub.code and pub.code != "" %}
     <a class="pub-btn" href="{{ pub.code }}">Code</a>
   {% endif %}
-
   {% if pub.website and pub.website != "" %}
     <a class="pub-btn" href="{{ pub.website }}">Website</a>
   {% endif %}
-
   {% if pub.slides and pub.slides != "" %}
     <a class="pub-btn" href="{{ pub.slides }}">Slides</a>
   {% endif %}
-
   {% if pub.video and pub.video != "" %}
     <a class="pub-btn" href="{{ pub.video }}">Video</a>
   {% endif %}
-
   {% if pub.bibtex and pub.bibtex != "" %}
     <a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>
   {% endif %}
-
   {% if pub.link and pub.link != "" %}
     <a class="pub-btn" href="{{ pub.link }}">Link</a>
   {% endif %}
