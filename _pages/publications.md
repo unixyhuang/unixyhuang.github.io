@@ -48,7 +48,9 @@ pubs:
     code: ""
     website: ""
     slides: "https://unixyhuang.github.io/pubs/blindfold_slides.pdf"
-    Video: "https://www.youtube.com/watch?v=Y6MsFS8bGVU&t=29s"
+    bibtex: ""
+    abs: ""
+    video: "https://www.youtube.com/watch?v=Y6MsFS8bGVU&t=40s"
 
   - tag: "CCS '25"
     type: "Conference"
@@ -329,6 +331,7 @@ html[data-theme="dark"]{
       {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
       {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
       {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">Link</a>{% endif %}
+      {% if pub.video and pub.video != "" %}<a class="pub-btn" href="{{ pub.video }}">Video</a>{% endif %}
     </div>
     {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
   </div>
@@ -349,33 +352,19 @@ html[data-theme="dark"]{
       {{ pub.booktitle }}
       {% if pub.journal %} {{ pub.journal }}{% endif %}
     </div>
-<div class="pub-btns">
-  {% if pub.pdf and pub.pdf != "" %}
-    <a class="pub-btn" href="{{ pub.pdf }}">PDF</a>
-  {% endif %}
-  {% if pub.code and pub.code != "" %}
-    <a class="pub-btn" href="{{ pub.code }}">Code</a>
-  {% endif %}
-  {% if pub.website and pub.website != "" %}
-    <a class="pub-btn" href="{{ pub.website }}">Website</a>
-  {% endif %}
-  {% if pub.slides and pub.slides != "" %}
-    <a class="pub-btn" href="{{ pub.slides }}">Slides</a>
-  {% endif %}
-  {% if pub.video and pub.video != "" %}
-    <a class="pub-btn" href="{{ pub.video }}">Video</a>
-  {% endif %}
-  {% if pub.bibtex and pub.bibtex != "" %}
-    <a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>
-  {% endif %}
-  {% if pub.link and pub.link != "" %}
-    <a class="pub-btn" href="{{ pub.link }}">Link</a>
-  {% endif %}
-</div>
+    <div class="pub-btns">
+      {% if pub.pdf and pub.pdf != "" %}<a class="pub-btn" href="{{ pub.pdf }}">PDF</a>{% endif %}
+      {% if pub.code and pub.code != "" %}<a class="pub-btn" href="{{ pub.code }}">Code</a>{% endif %}
+      {% if pub.website and pub.website != "" %}<a class="pub-btn" href="{{ pub.website }}">Website</a>{% endif %}
+      {% if pub.slides and pub.slides != "" %}<a class="pub-btn" href="{{ pub.slides }}">Slides</a>{% endif %}
+      {% if pub.bibtex and pub.bibtex != "" %}<a class="pub-btn" href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
+      {% if pub.link and pub.link != "" %}<a class="pub-btn" href="{{ pub.link }}">Link</a>{% endif %}
+    </div>
+    {% if pub.abs and pub.abs != "" %}<div class="pub-abs">{{ pub.abs }}</div>{% endif %}
+  </div>
   <div class="pub-year">{{ pub.year }}</div>
 </article>
 {% endfor %}
-
 
 {% for pub in others %}
 {% assign href = pub.url | default: pub.link %}
@@ -403,3 +392,5 @@ html[data-theme="dark"]{
   <div class="pub-year">{{ pub.year }}</div>
 </article>
 {% endfor %}
+
+加一个选项 Video
