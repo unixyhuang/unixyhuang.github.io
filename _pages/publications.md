@@ -392,5 +392,3 @@ html[data-theme="dark"]{
   <div class="pub-year">{{ pub.year }}</div>
 </article>
 {% endfor %}
-
-加一个选项 Video
