@@ -21,6 +21,7 @@ pubs:
     slides: "https://unixyhuang.github.io/pubs/GPIoT_preseentation.pdf"
     bibtex: ""
     abs: ""
+    video: "https://www.youtube.com/watch?v=Rsfs8Yt1Pwk"
     
   - tag: "SenSys '26"
     type: "Conference"
@@ -36,7 +37,7 @@ pubs:
     slides: "https://unixyhuang.github.io/pubs/blindfold_slides.pdf"
     bibtex: ""
     abs: ""
-    video: "https://www.youtube.com/watch?v=Y6MsFS8bGVU&t=40s"
+    video: "https://www.youtube.com/watch?v=Y6MsFS8bGVU"
 
 
   - tag: "TMC"
