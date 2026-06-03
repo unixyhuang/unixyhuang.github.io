@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publication/
-title: Publication
+title: Selected Publications
 description:
 nav: true
 nav_order: 3
@@ -21,20 +21,6 @@ pubs:
     slides: "https://unixyhuang.github.io/pubs/GPIoT_preseentation.pdf"
     bibtex: ""
     abs: ""
-
-  - tag: "AutoSys '26"
-    type: "Conference"
-    year: "2026"
-    title: "Automating Model Deployment on Mobile Devices"
-    author: "Leming Shen, Qiang Yang, <u><b>Xinyu Huang</b></u>, Zijing Ma, Yuanqing Zheng, Chris Xiaoxuan Lu"
-    booktitle: "AutoSys Workshop @ MobiSys 2026, June 25, 2026, Cambridge, UK"
-    link: ""
-    pdf: "https://unixyhuang.github.io/pubs/autosys26-final91.pdf"
-    code: ""
-    website: ""
-    slides: ""
-    bibtex: ""
-    abs: ""
     
   - tag: "SenSys '26"
     type: "Conference"
@@ -52,33 +38,6 @@ pubs:
     abs: ""
     video: "https://www.youtube.com/watch?v=Y6MsFS8bGVU&t=40s"
 
-  - tag: "CCS '25"
-    type: "Conference"
-    year: "2025"
-    title: "Poster: LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
-    author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Yuanqing Zheng"
-    booktitle: "CCS 2025 (Poster), October 13–17, 2025, Taipei, Taiwan"
-    link: "https://dl.acm.org/doi/abs/10.1145/3719027.3760709"
-    pdf: ""
-    code: ""
-    website: ""
-    slides: ""
-    bibtex: ""
-    abs: ""
-    
-  - tag: "MobiCom '25"
-    type: "Conference"
-    year: "2025"
-    title: "Poster: Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
-    author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
-    booktitle: "MobiCom 2025 (Poster), November 4–8, 2025, Hong Kong, China"
-    link: "https://dl.acm.org/doi/10.1145/3680207.3765677"
-    pdf: ""
-    code: ""
-    website: ""
-    slides: ""
-    bibtex: ""
-    abs: ""
 
   - tag: "TMC"
     type: "Journal"
