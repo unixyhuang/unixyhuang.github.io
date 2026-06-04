@@ -6,8 +6,6 @@ description:
 nav: true
 nav_order: 3
 
-You could find the full list in [Google Scholar](https://scholar.google.com/citations?user=cuDwCOwAAAAJ&hl=en).
-
 pubs:
   - tag: "SenSys '25"
     type: "Conference"
