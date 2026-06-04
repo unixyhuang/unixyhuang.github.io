@@ -6,6 +6,8 @@ description:
 nav: true
 nav_order: 3
 
+You could find the full list in [Google Scholar](https://scholar.google.com/citations?user=cuDwCOwAAAAJ&hl=en).
+
 pubs:
   - tag: "SenSys '25"
     type: "Conference"
@@ -54,47 +56,6 @@ pubs:
     bibtex: ""
     abs: ""
     
-  - tag: "INS"
-    type: "Journal"
-    year: "2024"
-    title: "GD3N: Adaptive Clustering-Based Detection of Selective Forwarding Attacks in WSNs under Variable Harsh Environments"
-    author: "Haozhen Wang, <u><b>Xinyu Huang</b></u>, Yuanming Wu"
-    booktitle: "Information Sciences, 2024"
-    link: "https://www.sciencedirect.com/science/article/pii/S0020025524002883"
-    pdf: ""
-    code: ""
-    website: ""
-    slides: ""
-    bibtex: ""
-    abs: ""
-
-  - tag: "EAAI"
-    type: "Journal"
-    year: "2023"
-    title: "LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments"
-    author: "<u><b>Xinyu Huang</b></u>, Shunan Li, Yuanming Wu"
-    booktitle: "Engineering Applications of Artificial Intelligence, 2023"
-    link: "https://www.sciencedirect.com/science/article/pii/S0952197623006255"
-    pdf: ""
-    code: ""
-    website: ""
-    slides: ""
-    bibtex: ""
-    abs: ""
-
-  - tag: "SensJ"
-    type: "Journal"
-    year: "2022"
-    title: "Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks"
-    author: "<u><b>Xinyu Huang</b></u>, Yuanming Wu"
-    booktitle: "IEEE Sensors Journal, 2022"
-    link: "https://ieeexplore.ieee.org/abstract/document/9755128"
-    pdf: ""
-    code: ""
-    website: ""
-    slides: ""
-    bibtex: ""
-    abs: ""
 ---
 
 <style>
