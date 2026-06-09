@@ -27,7 +27,7 @@ horizontal: false
 
 - Aug 2025: LLMalware was accepted as a Poster in [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing！
 
-- Jun 2025: Won the Best Poster by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
+- Jun 2025: Won the Best Poster Presentation in [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
 
 - May 2025: Attended the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
 
