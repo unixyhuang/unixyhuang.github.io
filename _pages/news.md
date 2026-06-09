@@ -12,8 +12,6 @@ horizontal: false
 - Jun 2026: Won the 2nd Runner-Up in [PolyU FCMS 3MT Competition 2026](https://www.polyu.edu.hk/fcms/research/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis-2026/).
 
 - May 2026: Attend the [CPS-IoT Week 2026](https://sensys.acm.org/2026/), Saint-Malo, France.
-
-- Mar 2026: Blindfold is now posted on [arXiv](https://arxiv.org/abs/2603.01414).
   
 - Jan 2026: Blindfold is accepted by [SenSys 2026](https://sensys.acm.org/2026/). See you in France!
 
@@ -28,8 +26,6 @@ horizontal: false
 - Aug 2025: HomeLLaMA is accepted as a Poster in [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/).
 
 - Aug 2025: LLMalware is accepted as a Poster in [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing！
-
-- Jul 2025: HomeLLaMA is now posted on [arXiv](https://arxiv.org/abs/2507.08878).
 
 - Jun 2025: Awarded as **Best Poster** by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
 
