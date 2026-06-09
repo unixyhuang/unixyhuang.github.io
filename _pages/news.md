@@ -11,33 +11,33 @@ horizontal: false
 
 - Jun 2026: Won the 2nd Runner-Up in [PolyU FCMS 3MT Competition 2026](https://www.polyu.edu.hk/fcms/research/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis-2026/).
 
-- May 2026: Attend the [CPS-IoT Week 2026](https://sensys.acm.org/2026/), Saint-Malo, France.
+- May 2026: Attended the [CPS-IoT Week 2026](https://sensys.acm.org/2026/), Saint-Malo, France.
   
-- Jan 2026: Blindfold is accepted by [SenSys 2026](https://sensys.acm.org/2026/). See you in France!
+- Jan 2026: Blindfold was accepted by [SenSys 2026](https://sensys.acm.org/2026/). See you in France!
 
-- Jan 2026: HomeLLaMA is accepted by [IEEE TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
+- Jan 2026: HomeLLaMA was accepted by [IEEE TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
   
-- Nov 2025: Attend the [Embedded AI Summit 2025](https://www.embedded-ai.org/2025/index.html), Zhengzhou, China.
+- Nov 2025: Attended the [Embedded AI Summit 2025](https://www.embedded-ai.org/2025/index.html), Zhengzhou, China.
 
-- Nov 2025: Attend the [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html), Hong Kong SAR, China.
+- Nov 2025: Attended the [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html), Hong Kong SAR, China.
 
-- Nov 2025: Attend the [Future Mobility Forum](https://cse.hkust.edu.hk/future_mobility_forum/), HKUST, Hong Kong SAR, China.
+- Nov 2025: Attended the [Future Mobility Forum](https://cse.hkust.edu.hk/future_mobility_forum/), HKUST, Hong Kong SAR, China.
 
-- Aug 2025: HomeLLaMA is accepted as a Poster in [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/).
+- Aug 2025: HomeLLaMA was accepted as a Poster in [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/).
 
-- Aug 2025: LLMalware is accepted as a Poster in [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing！
+- Aug 2025: LLMalware was accepted as a Poster in [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). Congrats to Zijing！
 
-- Jun 2025: Awarded as **Best Poster** by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
+- Jun 2025: Won the Best Poster by [PolyU - HKUST(GZ) RPg Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/), Guangzhou, China.
 
-- May 2025: Attend the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
+- May 2025: Attended the [CPS-IoT Week 2025](https://cps-iot-week2025.ics.uci.edu/), Irvine, USA.
 
-- Jan 2025: GPIoT is accepted by [SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming!
+- Jan 2025: GPIoT was accepted by [SenSys 2025](https://sensys.acm.org/2025/index.html). Congrats to Leming!
 
-- May 2024: Attend the [CPS-IoT Week 2024](https://cps-iot-week2024.ie.cuhk.edu.hk/), Hong Kong SAR, China.
+- May 2024: Attended the [CPS-IoT Week 2024](https://cps-iot-week2024.ie.cuhk.edu.hk/), Hong Kong SAR, China.
 
-- May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), HKUST, Hong Kong SAR, China.
+- May 2024: Attended the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), HKUST, Hong Kong SAR, China.
 
-- May 2024: Become a PhD student of the Hong Kong Polytechnic University.
+- May 2024: Became a PhD student of the Hong Kong Polytechnic University.
 
 <details markdown="1">
 <summary>Older News</summary>
