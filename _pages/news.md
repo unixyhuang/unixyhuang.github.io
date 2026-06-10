@@ -12,6 +12,8 @@ horizontal: false
 - Jun 2026: Won the 2nd Runner-Up in [PolyU FCMS 3MT Competition 2026](https://www.polyu.edu.hk/fcms/research/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis-2026/).
 
 - May 2026: Attended the [CPS-IoT Week 2026](https://sensys.acm.org/2026/), Saint-Malo, France.
+
+- Jan 2026: Became a PhD Candidate officially!
   
 - Jan 2026: Blindfold was accepted by [SenSys 2026](https://sensys.acm.org/2026/). See you in France!
 
