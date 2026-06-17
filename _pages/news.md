@@ -13,9 +13,9 @@ horizontal: false
 
 - May 2026: Attended the [CPS-IoT Week 2026](https://sensys.acm.org/2026/), Saint-Malo, France.
 
-- Jan 2026: Became a PhD Candidate of the Hong Kong Polytechnic University!
+- Jan 2026: Passed my PhD confirmation and became a PhD Candidate.
   
-- Jan 2026: Blindfold was accepted by [SenSys 2026](https://sensys.acm.org/2026/). See you in France!
+- Jan 2026: Blindfold was accepted by [SenSys 2026](https://sensys.acm.org/2026/). See you in France.
 
 - Jan 2026: HomeLLaMA was accepted by [IEEE TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
   
@@ -39,7 +39,7 @@ horizontal: false
 
 - May 2024: Attended the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), HKUST, Hong Kong SAR, China.
 
-- May 2024: Became a PhD student of the Hong Kong Polytechnic University!
+- May 2024: Became a PhD student of the Hong Kong Polytechnic University.
 
 <details markdown="1">
 <summary>Older News</summary>
