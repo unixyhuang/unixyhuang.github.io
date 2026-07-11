@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- Jul 2026: LLMalware was accepted by [RAID 2026](https://raid2026.org/). Congrats to Zijing！
+
 - Jun 2026: Won the 2nd Runner-Up in [PolyU FCMS 3MT Competition 2026](https://www.polyu.edu.hk/fcms/research/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis-2026/).
 
 - May 2026: Attended the [CPS-IoT Week 2026](https://sensys.acm.org/2026/), Saint-Malo, France.
