@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 
 pubs:
-  - tag: "SenSys '25"
+  - tag: "SENSYS '25"
     type: "Conference"
     year: "2025"
     title: "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
@@ -23,14 +23,14 @@ pubs:
     abs: ""
     video: "https://www.youtube.com/watch?v=Rsfs8Yt1Pwk"
     
-  - tag: "SenSys '26"
+  - tag: "SENSYS '26"
     type: "Conference"
     year: "2026"
     title: "Jailbreaking Embodied LLMs via Action-Level Manipulation"
     author: "<u><b>Xinyu Huang</b></u>, Qiang Yang, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "SenSys 2026, May 11–14, 2026, Saint-Malo, France"
     acceptance_rate: "19.6%"
-    link: "https://arxiv.org/abs/2603.01414"
+    link: "https://dl.acm.org/doi/10.1145/3774906.3802758"
     pdf: "https://unixyhuang.github.io/pubs/blindfold.pdf"
     code: ""
     website: ""
