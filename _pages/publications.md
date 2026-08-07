@@ -47,14 +47,13 @@ pubs:
     booktitle: "RAID 2026, Oct 11–14, 2026, Lancaster, UK"
     acceptance_rate: "19.0%"
     link: ""
-    pdf: ""
+    pdf: "https://unixyhuang.github.io/pubs/raid26-final2.pdf"
     code: ""
     website: ""
     slides: ""
     bibtex: ""
     abs: ""
     video: ""
-    
 
   - tag: "TMC"
     type: "Journal"
