@@ -39,6 +39,22 @@ pubs:
     abs: ""
     video: "https://www.youtube.com/watch?v=Y6MsFS8bGVU"
 
+  - tag: "RAID '26"
+    type: "Conference"
+    year: "2026"
+    title: "Concept Drifts, Detector Evolves: Malware Detection Made Easy with LLMalware"
+    author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Kai Zhou, Yuanqing Zheng"
+    booktitle: "RAID 2026, Oct 11–14, 2026, Lancaster, UK"
+    acceptance_rate: "19.0%"
+    link: ""
+    pdf: ""
+    code: ""
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+    video: ""
+    
 
   - tag: "TMC"
     type: "Journal"
