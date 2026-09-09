@@ -27,12 +27,12 @@ horizontal: false
     - [IEEE Access](https://ieeeaccess.ieee.org/)
     
 ### Teaching  
+  - COMP4431: Artificial Intelligence (Fall 2026 & Fall 2025)
+    - Teaching Assistant, HK PolyU
+    - Instructor: [Dr. Xiangmeng Wang](https://chrystalii.github.io/) 
   - CUS2000: Introduction to Research (Spring 2026)
     - Teaching Assistant, HK PolyU
     - Instructor: [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/) 
-  - COMP4431: Artificial Intelligence (Fall 2025 & Fall 2026)
-    - Teaching Assistant, HK PolyU
-    - Instructor: [Dr. Xiangmeng Wang](https://chrystalii.github.io/) 
   - COMP1011: Programming Fundamentals (Spring 2025)
     - Teaching Assistant, HK PolyU
     - Instructor: [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/) 
