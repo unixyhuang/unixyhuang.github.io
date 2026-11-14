@@ -46,7 +46,7 @@ pubs:
     author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Kai Zhou, Yuanqing Zheng"
     booktitle: "RAID 2026, Oct 11–14, 2026, Lancaster, UK"
     acceptance_rate: "19.0%"
-    link: ""
+    link: "https://doi.org/10.1007/978-3-032-42936-0_1"
     pdf: "https://unixyhuang.github.io/pubs/raid26-final2.pdf"
     code: ""
     website: ""
@@ -58,7 +58,7 @@ pubs:
   - tag: "TMC"
     type: "Journal"
     year: "2026"
-    title: "Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
+    title: "Toward Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
     author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
     booktitle: "IEEE Transactions on Mobile Computing, 2026"
     link: "https://ieeexplore.ieee.org/document/11355826"
@@ -68,7 +68,119 @@ pubs:
     slides: ""
     bibtex: ""
     abs: ""
-    
+
+  - tag: "GETMOBILE"
+    type: "Journal"
+    year: "2026"
+    title: "One Workflow Doesn't Fit All: Adaptive Workflows for Edge AI Development"
+    author: "Leming Shen, Qiang Yang, <u><b>Xinyu Huang</b></u>, Zijing Ma, Yuanqing Zheng, Chris Xiaoxuan Lu"
+    booktitle: "GetMobile: Mobile Computing and Communications, 2026"
+    link: "https://dl.acm.org/doi/10.1145/3810919.3810921"
+    pdf: ""
+    code: ""
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "INS"
+    type: "Journal"
+    year: "2024"
+    title: "GD3N: Adaptive Clustering-Based Detection of Selective Forwarding Attacks in WSNs under Variable Harsh Environments"
+    author: "Haozhen Wang, <u><b>Xinyu Huang</b></u>, Yuanming Wu"
+    booktitle: "Information Sciences, 2024"
+    link: "https://doi.org/10.1016/j.ins.2024.120375"
+    pdf: ""
+    code: "https://github.com/unixyhuang/GD3N"
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "EAAI"
+    type: "Journal"
+    year: "2023"
+    title: "LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments"
+    author: "<u><b>Xinyu Huang</b></u>, Shunan Li, Yuanming Wu"
+    booktitle: "Engineering Applications of Artificial Intelligence, 2023"
+    link: "https://doi.org/10.1016/j.engappai.2023.106441"
+    pdf: ""
+    code: ""
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "JSEN"
+    type: "Journal"
+    year: "2022"
+    title: "Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks"
+    author: "<u><b>Xinyu Huang</b></u>, Yuanming Wu"
+    booktitle: "IEEE Sensors Journal, 2022"
+    link: "https://doi.org/10.1109/JSEN.2022.3166601"
+    pdf: ""
+    code: ""
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "AUTOSYS '26"
+    type: "Short Paper"
+    year: "2026"
+    title: "Automating Model Deployment on Mobile Devices"
+    author: "Leming Shen, Qiang Yang, <u><b>Xinyu Huang</b></u>, Zijing Ma, Yuanqing Zheng, Chris Xiaoxuan Lu"
+    booktitle: "AutoSys @ MobiSys 2026, Jun 25, 2026, Cambridge, UK"
+    link: "https://dl.acm.org/doi/10.1145/3812836.3814754"
+    pdf: "https://unixyhuang.github.io/pubs/autosys26-final91.pdf"
+    code: ""
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "MOBIUK '26"
+    type: "Short Paper"
+    year: "2026"
+    title: "Towards Automated Mobile Model Deployment"
+    author: "Leming Shen, Qiang Yang, <u><b>Xinyu Huang</b></u>, Zijing Ma, Yuanqing Zheng, Chris Xiaoxuan Lu"
+    booktitle: "MobiUK 2026, Jun 25–26, 2026, Cambridge, UK"
+    link: "https://www.mobiuk.org/2026/programme.html"
+    pdf: "https://www.mobiuk.org/2026/abstracts/S2_Towards_Automated_Model_Deployment.pdf"
+    code: ""
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "CCS '25"
+    type: "Short Paper"
+    year: "2025"
+    title: "Poster: LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
+    author: "Zijing Ma, Leming Shen, <u><b>Xinyu Huang</b></u>, Yuanqing Zheng"
+    booktitle: "CCS 2025, Oct 13–17, 2025, Taipei, Taiwan"
+    link: "https://dl.acm.org/doi/10.1145/3719027.3760709"
+    pdf: "https://lemingshen.github.io/assets/publication/others/llmware_poster.pdf"
+    code: ""
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
+  - tag: "MOBICOM '25"
+    type: "Short Paper"
+    year: "2025"
+    title: "Poster: Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
+    author: "<u><b>Xinyu Huang</b></u>, Leming Shen, Zijing Ma, Yuanqing Zheng"
+    booktitle: "MobiCom 2025, Nov 4–8, 2025, Hong Kong, China"
+    link: "https://dl.acm.org/doi/10.1145/3680207.3765677"
+    pdf: "https://lemingshen.github.io/assets/publication/others/homellama_poster.pdf"
+    code: ""
+    website: ""
+    slides: ""
+    bibtex: ""
+    abs: ""
+
 ---
 
 <style>
@@ -240,7 +352,7 @@ html[data-theme="dark"]{
 
 {% assign confs = page.pubs | where: "type", "Conference" | sort: "year" | reverse %}
 {% assign journals = page.pubs | where: "type", "Journal" | sort: "year" | reverse %}
-{% assign others = page.pubs | where: "type", "Others" | sort: "year" | reverse %}
+{% assign short_papers = page.pubs | where: "type", "Short Paper" | sort: "year" | reverse %}
 
 ## Conference
 
@@ -300,7 +412,9 @@ html[data-theme="dark"]{
 </article>
 {% endfor %}
 
-{% for pub in others %}
+## Short Paper
+
+{% for pub in short_papers %}
 {% assign href = pub.url | default: pub.link %}
 <article class="pub-card">
   <div class="pub-left"><span class="pub-pill">{{ pub.tag }}</span></div>
