@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 
 pubs:
-  - tag: "SENSYS '25"
+  - tag: "SENSYS'25"
     type: "Conference"
     year: "2025"
     title: "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development"
@@ -23,7 +23,7 @@ pubs:
     abs: ""
     video: "https://www.youtube.com/watch?v=Rsfs8Yt1Pwk"
     
-  - tag: "SENSYS '26"
+  - tag: "SENSYS'26"
     type: "Conference"
     year: "2026"
     title: "Jailbreaking Embodied LLMs via Action-Level Manipulation"
@@ -39,7 +39,7 @@ pubs:
     abs: ""
     video: "https://www.youtube.com/watch?v=Y6MsFS8bGVU"
 
-  - tag: "RAID '26"
+  - tag: "RAID'26"
     type: "Conference"
     year: "2026"
     title: "Concept Drifts, Detector Evolves: Malware Detection Made Easy with LLMalware"
@@ -64,20 +64,6 @@ pubs:
     link: "https://ieeexplore.ieee.org/document/11355826"
     pdf: "https://unixyhuang.github.io/pubs/homellama.pdf"
     code: "https://github.com/unixyhuang/homellama"
-    website: ""
-    slides: ""
-    bibtex: ""
-    abs: ""
-
-  - tag: "GETMOBILE"
-    type: "Journal"
-    year: "2026"
-    title: "One Workflow Doesn't Fit All: Adaptive Workflows for Edge AI Development"
-    author: "Leming Shen, Qiang Yang, <u><b>Xinyu Huang</b></u>, Zijing Ma, Yuanqing Zheng, Chris Xiaoxuan Lu"
-    booktitle: "GetMobile: Mobile Computing and Communications, 2026"
-    link: "https://dl.acm.org/doi/10.1145/3810919.3810921"
-    pdf: ""
-    code: ""
     website: ""
     slides: ""
     bibtex: ""
@@ -125,7 +111,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "AUTOSYS '26"
+  - tag: "AUTOSYS'26"
     type: "Short Paper"
     year: "2026"
     title: "Automating Model Deployment on Mobile Devices"
@@ -139,7 +125,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "MOBIUK '26"
+  - tag: "MOBIUK'26"
     type: "Short Paper"
     year: "2026"
     title: "Towards Automated Mobile Model Deployment"
@@ -153,7 +139,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "CCS '25"
+  - tag: "CCS'25"
     type: "Short Paper"
     year: "2025"
     title: "Poster: LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework"
@@ -167,7 +153,7 @@ pubs:
     bibtex: ""
     abs: ""
 
-  - tag: "MOBICOM '25"
+  - tag: "MOBICOM'25"
     type: "Short Paper"
     year: "2025"
     title: "Poster: Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models"
