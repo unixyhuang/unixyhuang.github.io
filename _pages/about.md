@@ -25,7 +25,7 @@ My current research interests include, but are not limited to:
 
 - Large Foundation Models
 - Embodied Intelligence
-- Security and Privacy
+- AI Security
 - Efficient AI Systems
 
 
