@@ -23,6 +23,7 @@ horizontal: false
     - [ACM IMWUT/UbiComp 2024 & 2025](https://dl.acm.org/journal/imwut)
     - [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
     - [ACM Transactions on Internet of Things](https://dl.acm.org/journal/TIOT)
+    - [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
     - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
     - [IEEE Access](https://ieeeaccess.ieee.org/)
     
