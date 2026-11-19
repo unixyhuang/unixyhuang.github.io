@@ -23,17 +23,17 @@ My name is **Xinyu Huang**, and I am currently working towards my PhD degree in 
 ### 🤓 Research Interests
 My current research interests include, but are not limited to:
 
-- Large Foundation Models
-- Embodied Intelligence
+- Agentic System
+- Embodied AI & Robotics
 - AI Security
-- Efficient AI Systems
+- AI Efficiency
 
 
 
 ### 📧 Contacts
 If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
 
-- Email: xyhuang [AT] ieee [DOT] org
+- Email: unixy-xinyu.huang [AT] connect [DOT] polyu [DOT] hk
 - Office: QT404, Chow Yei Ching Building, HK PolyU, Hung Hom, Kowloon, Hong Kong
 
 
