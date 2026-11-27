@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- Nov 2026: SpiderSense was accepted by [MobiCom 2027](https://www.sigmobile.org/mobicom/2027/). See you in Greece.
+
 - Jul 2026: LLMalware was accepted by [RAID 2026](https://raid2026.org/). Congrats to Zijing！
 
 - Jun 2026: Won the 2nd Runner-Up in [PolyU FCMS 3MT Competition 2026](https://www.polyu.edu.hk/fcms/research/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis/polyu-faculty-of-computer-and-mathematical-sciences-three-minute-thesis-2026/).
